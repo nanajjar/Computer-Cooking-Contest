@@ -1,0 +1,437 @@
+<?xml version="1.0"?>
+<recipes>
+  <recipe>
+  <title>Exotic baguette</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Baguette">baguette</ingredient>
+    <ingredient quantity="" unit="unit" food="Ham">ham</ingredient>
+    <ingredient quantity="" unit="unit" food="Pineapple">canned pineapple</ingredient>
+    <ingredient quantity="" unit="unit" food="Mayonnaise">mayonnaise</ingredient>
+    <ingredient quantity="" unit="unit" food="Curry powder">curry powder</ingredient>
+  </ingredients>
+  <preparation>
+    <step>In a bowl, mix 2 tablespoons of mayonnaise</step>
+    <step>with 1 small teaspoon of curry powder.</step>
+    <step>Cut the pineapple into pieces.</step>
+    <step>Open the baguette, spread with mayonnaise and curry.</step>
+    <step>Add the ham slices and pineapple chunks}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Sandwich B.L.T.</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Pain de mie">Pain de mie</ingredient>
+    <ingredient quantity="" unit="unit" food="Bacon">bacon</ingredient>
+    <ingredient quantity="" unit="unit" food="Tomato">tomato</ingredient>
+    <ingredient quantity="" unit="unit" food="Lettuce">lettuce</ingredient>
+    <ingredient quantity="" unit="unit" food="Mayonnaise">mayonnaise</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Fry the bacon until crisp.</step>
+    <step>Lightly toast two slices of bread.</step>
+    <step>Coat the slices of bread with mayonnaise.</step>
+    <step>Arrange lettuce, tomato and a few slices of grilled bacon.</step>
+    <step>Cover with the second slice of bread}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Piquante Pita</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Pita bread">pita bread</ingredient>
+    <ingredient quantity="" unit="unit" food="Chicken">smoked chicken</ingredient>
+    <ingredient quantity="" unit="unit" food="Cabbage">Chinese cabbage</ingredient>
+    <ingredient quantity="" unit="unit" food="Tomato">tomatoes</ingredient>
+    <ingredient quantity="" unit="unit" food="Light cream">Fresh light cream</ingredient>
+    <ingredient quantity="" unit="unit" food="Ketchup">ketchup</ingredient>
+    <ingredient quantity="" unit="unit" food="Chili powder">Chili powder</ingredient>
+  </ingredients>
+  <preparation>
+    <step>In a bowl, mix the same quantities of cream and of ketchup.</step>
+    <step>Add a pinch of chili powder.</step>
+    <step>Peel and seed the tomatoes before cutting into small cubes.</step>
+    <step>Mince some Chinese cabbage into thin strips.</step>
+    <step>Crumble the smoked chicken.</step>
+    <step>Open the pita bread and spread with the sauce.</step>
+    <step>Top with cabbage, tomatoes and smoked chicken.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Vegetarian Club</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Pain de mie">Pain de mie</ingredient>
+    <ingredient quantity="" unit="unit" food="Tomato">tomatoes</ingredient>
+    <ingredient quantity="" unit="unit" food="Radish">radish</ingredient>
+    <ingredient quantity="" unit="unit" food="Avocado">avocado</ingredient>
+    <ingredient quantity="" unit="unit" food="Tzatziki">tzatziki</ingredient>
+    <ingredient quantity="" unit="leaf" food="Mint">Mint leaves</ingredient>
+    <ingredient quantity="" unit="unit" food="Olive oil">Olive oil</ingredient>
+    <ingredient quantity="" unit="unit" food="Lamb's lettuce">lamb's lettuce</ingredient>
+    <ingredient quantity="" unit="unit" food="Salt">salt</ingredient>
+    <ingredient quantity="" unit="unit" food="Pepper">pepper</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Cut radishes, slice tomatoes, slice avocado.</step>
+    <step>Lightly toast the slices of bread and cut into triangle.</step>
+    <step>Coat a first bread slice with tzatziki and add the corn salad.</step>
+    <step>Sprinkle with sliced radishes.</step>
+    <step>Put another slice of bread, cover again with tzatziki and</step>
+    <step>add avocado and tomato.</step>
+    <step>Sprinkle with chopped mint and close with a second slice of bread.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Chicken Club</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Pain de mie">pain de mie</ingredient>
+    <ingredient quantity="" unit="unit" food="Chicken breast">Chicken breast</ingredient>
+    <ingredient quantity="" unit="unit" food="Tomato">tomato</ingredient>
+    <ingredient quantity="" unit="unit" food="Avocado">avocado</ingredient>
+    <ingredient quantity="" unit="unit" food="Lettuce">lettuce</ingredient>
+    <ingredient quantity="" unit="unit" food="Mayonnaise">mayonnaise</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Cut the tomato into slices, chop salad.</step>
+    <step>Remove the pit and skin of the avocado, cut it in slices.</step>
+    <step>Lightly toast four thick slices of bread on both sides.</step>
+    <step>Coat the first tranche of mayonnaise and add successively cut salad,</step>
+    <step>sliced tomatoes, another slice of bread spread with mayonnaise, lettuce, chicken breast,</step>
+    <step>a slice of bread, avocado slices, salad and a final slice of bread.</step>
+    <step>Flatten the sandwich then cut diagonally into triangles.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Salmon cucumber sandwich</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Bread">Wholemeal bread</ingredient>
+    <ingredient quantity="" unit="unit" food="Smoked salmon">smoked salmon</ingredient>
+    <ingredient quantity="" unit="unit" food="Cream cheese">cream cheese</ingredient>
+    <ingredient quantity="" unit="unit" food="Chive">chive</ingredient>
+    <ingredient quantity="" unit="unit" food="Cucumbers">cucumber</ingredient>
+    <ingredient quantity="" unit="unit" food="Onion">onion</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Peel the cucumber and cut into thin slices.</step>
+    <step>Peel the onion and chop finely.</step>
+    <step>Mix the chopped chives with the cream cheese.</step>
+    <step>Spread a slice of bread with cream cheese.</step>
+    <step>Top with cucumber slices.</step>
+    <step>Place a slice of smoked salmon.</step>
+    <step>Sprinkle with chopped onion.</step>
+    <step>Close the sandwich with a second slice of bread.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Egg Pita</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Pita bread">pita bread</ingredient>
+    <ingredient quantity="" unit="unit" food="Hard-boiled egg">hard-boiled eggs</ingredient>
+    <ingredient quantity="" unit="unit" food="Cucumbers">cucumber</ingredient>
+    <ingredient quantity="" unit="unit" food="Parsley">parsley</ingredient>
+    <ingredient quantity="" unit="unit" food="Chive">chive</ingredient>
+    <ingredient quantity="" unit="unit" food="Yogurt">yogurt</ingredient>
+    <ingredient quantity="" unit="unit" food="Mustard">mustard</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Chop parsley and chives.</step>
+    <step>Mix plain yogurt with a teaspoon of mustard.</step>
+    <step>Crush the egg.</step>
+    <step>In a bowl, mix the egg with parsley, chives and yogurt sauce.</step>
+    <step>Peel a cucumber and cut into thin slices. Warm pita bread and cut in half.</step>
+    <step>On each slice, place cucumber slices and egg preparation.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Hummus club</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Pain de mie">Pain de mie</ingredient>
+    <ingredient quantity="" unit="unit" food="Hummus">hummus</ingredient>
+    <ingredient quantity="" unit="unit" food="Cucumbers">cucumber</ingredient>
+    <ingredient quantity="" unit="unit" food="Green pepper">green pepper</ingredient>
+    <ingredient quantity="" unit="unit" food="Pepper">red pepper</ingredient>
+    <ingredient quantity="" unit="unit" food="Lettuce">lettuce</ingredient>
+    <ingredient quantity="" unit="unit" food="Basil">fresh basil</ingredient>
+    <ingredient quantity="" unit="unit" food="Lemon">lemon</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Cut the cucumber into thin slices.</step>
+    <step>Cut the peppers and slice into matchsticks.</step>
+    <step>Cut the lettuce, chop the basil.</step>
+    <step>Spread generously the two slices of bread with hummus.</step>
+    <step>On a slice, add salad, cucumber slices, sliced green pepper and basil.</step>
+    <step>Drizzle with lemon juice and close the sandwich with the second slice of bread.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Turkey Club</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Wholemeal pain de mie">Wholemeal pain de mie</ingredient>
+    <ingredient quantity="" unit="unit" food="Tomato">tomatoes</ingredient>
+    <ingredient quantity="" unit="unit" food="Cucumbers">cucumber</ingredient>
+    <ingredient quantity="" unit="unit" food="Gruyere">Gruy&#xE8;re</ingredient>
+    <ingredient quantity="" unit="unit" food="Turkey">Roast Turkey</ingredient>
+    <ingredient quantity="" unit="unit" food="Lettuce">lettuce</ingredient>
+    <ingredient quantity="" unit="unit" food="Red onion">red onion</ingredient>
+    <ingredient quantity="" unit="unit" food="Ketchup">ketchup</ingredient>
+    <ingredient quantity="" unit="unit" food="Mayonnaise">mayonnaise</ingredient>
+    <ingredient quantity="" unit="unit" food="Pepper">pepper</ingredient>
+  </ingredients>
+  <preparation>
+    <step>In a bowl, combine 3/4 mayonnaise and 1/4 ketchup, pepper.</step>
+    <step>Cut thin slices of cheese.</step>
+    <step>Chop tomatoes, cucumber and red onion slices.</step>
+    <step>Cut the turkey roast into thin slices.</step>
+    <step>Lightly toast the slices of wholemeal bread and cut into triangle.</step>
+    <step>A first tranche, top with sauce and place a lettuce leaf.</step>
+    <step>Then place a slice of cheese, turkey and red onion.</step>
+    <step>Put another slice of bread then place the tomato, cucumber and a new lettuce leaf.</step>
+    <step>Close with a final slice of bread topped with sauce}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Southern baguette</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Baguette">baguette</ingredient>
+    <ingredient quantity="" unit="unit" food="Pesto">Pesto sauce</ingredient>
+    <ingredient quantity="" unit="unit" food="Parma ham">parma ham</ingredient>
+    <ingredient quantity="" unit="unit" food="Goat">fresh goat</ingredient>
+    <ingredient quantity="" unit="unit" food="Lamb's lettuce">cornsalad</ingredient>
+    <ingredient quantity="" unit="unit" food="Pepper">pepper</ingredient>
+    <ingredient quantity="" unit="unit" food="Olive oil">olive oil</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Open the baguette in half lengthwise. Spread a thin layer of pesto.</step>
+    <step>Arrange a few slices of ham.</step>
+    <step>Add crumbled goat cheese.</step>
+    <step>Add Pepper.</step>
+    <step>Have some corn salad and season with a little olive oil.</step>
+    <step>Close the baguette to enjoy the sandwich.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Original club sandwich</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Pain de mie">Pain de mie</ingredient>
+    <ingredient quantity="" unit="unit" food="Chicken breast">Chicken breast</ingredient>
+    <ingredient quantity="" unit="unit" food="Tomato">tomato</ingredient>
+    <ingredient quantity="" unit="unit" food="Hard-boiled egg">hard-boiled egg</ingredient>
+    <ingredient quantity="" unit="unit" food="Bacon">bacon</ingredient>
+    <ingredient quantity="" unit="unit" food="Lettuce">lettuce</ingredient>
+    <ingredient quantity="" unit="unit" food="Mayonnaise">mayonnaise</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Remove the shell off the egg and cut it into slices.</step>
+    <step>Cut a tomato into slices, chop salad, cut the chicken into strips.</step>
+    <step>Grill the bacon to the pan a few moments.</step>
+    <step>Place three slices of bread in the toaster.</step>
+    <step>Coat the first slice with mayonnaise and cut salad, sliced tomatoes and chicken.</step>
+    <step>Cover with a second slice, spread with mayonnaise, then add the sliced egg, the grilled</step>
+    <step>bacon and salad again.</step>
+    <step>Add the last slice of bread, cut the sandwich in half diagonally and push a toothpick</step>
+    <step>into each triangle.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Crab sandwich</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Pain de mie">Pain de mie</ingredient>
+    <ingredient quantity="" unit="unit" food="Crab">Canned crab</ingredient>
+    <ingredient quantity="" unit="unit" food="Lettuce">lettuce</ingredient>
+    <ingredient quantity="" unit="unit" food="Mayonnaise">mayonnaise</ingredient>
+    <ingredient quantity="" unit="unit" food="Lemon">lemon</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Add a dash of lemon to mayonnaise.</step>
+    <step>Mix with the crabmeat.</step>
+    <step>Arrange the shredded lettuce on a slice of bread.</step>
+    <step>Garnish with crab and add a second slice of bread.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Ultimate B.L.T.</title>
+  <ingredients>
+    <ingredient quantity=" 1" unit="c" food="Mayonnaise">1 cup mayonnaise</ingredient>
+    <ingredient quantity=" 0.25" unit="c" food="Extra virgin olive oil">0.25 cup extra virgin olive oil</ingredient>
+    <ingredient quantity=" 0.25" unit="tsp" food="Garlic">0.25 teaspoon freshly minced garlic</ingredient>
+    <ingredient quantity=" 0.5" unit="tsp" food="Black pepper">0.5 teaspoon ground black pepper</ingredient>
+    <ingredient quantity=" 2" unit="slice" food="Bread">2 slices toasted bread</ingredient>
+    <ingredient quantity=" 6" unit="slice" food="Bacon">6 slices crisp-cooked bacon</ingredient>
+    <ingredient quantity=" 3" unit="slice" food="Tomato">3 slices tomato, sliced 1/2-inch thick</ingredient>
+    <ingredient quantity=" 1" unit="oz" food="Salad greens">1 ounce (1 handful) gourmet salad greens mix</ingredient>
+  </ingredients>
+  <preparation>
+    <step>For Mayonnaise: Whisk the 4 first ingredients together until smooth. Store refrigerated.</step>
+    <step>For Sandwich: Spread toast with mayonnaise, then layer remaining ingredients.</step>
+    <step>Cut in half and serve.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Nordic Sandwich</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Pain de mie">Pain de mie</ingredient>
+    <ingredient quantity="" unit="unit" food="Salmon">Salmon rillettes</ingredient>
+    <ingredient quantity="" unit="unit" food="Smoked salmon">smoked salmon</ingredient>
+    <ingredient quantity="" unit="unit" food="Cream">cream</ingredient>
+    <ingredient quantity="" unit="unit" food="Lemon">lemon</ingredient>
+    <ingredient quantity="" unit="unit" food="Dill">dill</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Spread two slices of white bread with salmon rillettes.</step>
+    <step>Have based a slice of salmon.</step>
+    <step>Add a dollop of whipped cream, drizzle with lemon.</step>
+    <step>Sprinkle a little dill before asking the second tranche.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cyclades' bagel</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Bagel">Bagel</ingredient>
+    <ingredient quantity="" unit="unit" food="Salmon">salmon</ingredient>
+    <ingredient quantity="" unit="unit" food="Tzatziki">tzatziki</ingredient>
+    <ingredient quantity="" unit="unit" food="Cucumbers">cucumber</ingredient>
+    <ingredient quantity="" unit="unit" food="Lemon">lemon</ingredient>
+    <ingredient quantity="" unit="unit" food="Batavia">Batavia</ingredient>
+    <ingredient quantity="" unit="unit" food="Mint">mint</ingredient>
+    <ingredient quantity="" unit="unit" food="White wine vinegar">White wine vinegar</ingredient>
+    <ingredient quantity="" unit="unit" food="Brown sugar">brown sugar</ingredient>
+    <ingredient quantity="" unit="unit" food="Olive oil">Olive oil</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Cut the salmon into thin slices and marinate in lemon juice and olive oil.</step>
+    <step>In a bowl, mix the tzatziki (cucumber yogurt) with a little vinegar,</step>
+    <step>a little sugar, salt and pepper and chopped mint leaves.</step>
+    <step>Peel a cucumber and cut into thin slices.</step>
+    <step>Cut the bagel in half and lightly toast.</step>
+    <step>Coat the base of the sauce, then place the marinated salmon,</step>
+    <step>cucumber slices and a bit of Batavia.</step>
+    <step>Cover with second part of the bagel.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cocktail Baguette</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Baguette">baguette</ingredient>
+    <ingredient quantity="" unit="unit" food="Avocado">avocado</ingredient>
+    <ingredient quantity="" unit="unit" food="Tomato">tomato</ingredient>
+    <ingredient quantity="" unit="unit" food="Hard-boiled egg">hard-boiled egg</ingredient>
+    <ingredient quantity="" unit="unit" food="Shrimp">shrimp</ingredient>
+    <ingredient quantity="" unit="unit" food="Mayonnaise">mayonnaise</ingredient>
+    <ingredient quantity="" unit="unit" food="Ketchup">ketchup</ingredient>
+    <ingredient quantity="" unit="unit" food="Tabasco sauce">Tabasco sauce</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Prepare a cocktail sauce: Mix 2/3 of mayonnaise with 1/3 ketchup, add few drops of Tabasco.</step>
+    <step>Peel an avocado and cut it into strips, cut the tomato into cubes.</step>
+    <step>Open the baguette and spread with cocktail sauce.</step>
+    <step>Add the sliced hard-boiled egg, avocado, peeled shrimp and some diced tomato.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Shrimp and avocado sandwich</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Pain de mie">Pain de mie</ingredient>
+    <ingredient quantity="" unit="unit" food="Shrimp">shrimps</ingredient>
+    <ingredient quantity="" unit="unit" food="Avocado">avocado</ingredient>
+    <ingredient quantity="" unit="unit" food="Mayonnaise">mayonnaise</ingredient>
+    <ingredient quantity="" unit="unit" food="Lemon juice">Lemon juice</ingredient>
+    <ingredient quantity="" unit="unit" food="Arugula">arugula</ingredient>
+    <ingredient quantity="" unit="unit" food="Butter">butter</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Peel the shrimp to keep only the tails.</step>
+    <step>In a bowl, whisk mayonnaise and add a dash of lemon juice.</step>
+    <step>Stir in shrimp in mayonnaise and refrigerate.</step>
+    <step>Pit the avocado, peel and slice.</step>
+    <step>Butter your bread, add arugula, some shrimp coated with mayo.</step>
+    <step>Arrange slice of avocado and add the second slice of bread.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Garden Sandwich</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Wholemeal pain de mie">Wholemeal pain de mie</ingredient>
+    <ingredient quantity="" unit="unit" food="Avocado">avocado</ingredient>
+    <ingredient quantity="" unit="unit" food="Beet">beets</ingredient>
+    <ingredient quantity="" unit="unit" food="Lamb's lettuce">lamb's lettuce</ingredient>
+    <ingredient quantity="" unit="unit" food="Mayonnaise">mayonnaise</ingredient>
+    <ingredient quantity="" unit="unit" food="Olive oil">Olive oil</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Spread two thick slices of bread with mayonnaise.</step>
+    <step>Arrange a few leaves of lamb's lettuce on one of them.</step>
+    <step>Put avocado slices, then yet lamb's lettuce again.</step>
+    <step>Then put slices of cooked beets.</step>
+    <step>Add a light drizzle of olive oil before placing lamb's lettuce again.</step>
+    <step>Place the second slice of bread.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Crazy Sandwich</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Pain de mie">pain de mie</ingredient>
+    <ingredient quantity="" unit="unit" food="Tofu">tofu</ingredient>
+    <ingredient quantity="" unit="unit" food="Celery">celery</ingredient>
+    <ingredient quantity="" unit="unit" food="Chive">chive</ingredient>
+    <ingredient quantity="" unit="unit" food="Mayonnaise">mayonnaise</ingredient>
+    <ingredient quantity="" unit="unit" food="Soy sauce">Soy sauce</ingredient>
+    <ingredient quantity="" unit="unit" food="Lemon juice">Lemon juice</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Drain the tofu and crumble.</step>
+    <step>In a bowl, combine the tofu, celery and the chopped chive.</step>
+    <step>Stir in mayonnaise, soy sauce and lemon juice into the mixture.</step>
+    <step>Salt</step>
+    <step>Place the filling inside two slices of bread.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Crab Club</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Wholemeal pain de mie">Wholemeal pain de mie</ingredient>
+    <ingredient quantity="" unit="unit" food="Crabmeat">Crabmeat (canned)</ingredient>
+    <ingredient quantity="" unit="unit" food="Tzatziki">tzatziki</ingredient>
+    <ingredient quantity="" unit="unit" food="Avocado">avocado</ingredient>
+    <ingredient quantity="" unit="unit" food="Mango">mango</ingredient>
+    <ingredient quantity="" unit="unit" food="Cherry tomato">cherry tomatoes</ingredient>
+    <ingredient quantity="" unit="unit" food="Lime">lime</ingredient>
+    <ingredient quantity="" unit="unit" food="Tabasco sauce">Tabasco sauce</ingredient>
+    <ingredient quantity="" unit="unit" food="Salt">salt</ingredient>
+    <ingredient quantity="" unit="unit" food="Pepper">pepper</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Peel the mango and cut into strips.</step>
+    <step>Cut the avocado in half, remove the pit and the skin and cut into thin strips.</step>
+    <step>Drain crab meat, place in a bowl.</step>
+    <step>Pour a trickle of lime over crab and a few drops of Tasbaco.</step>
+    <step>Season with salt and pepper, mix well.</step>
+    <step>Lightly toast two slices of bread and cut into triangle.</step>
+    <step>Coat the first slice of bread with the Tzatziki.</step>
+    <step>Arrange slices of avocado and crab.</step>
+    <step>Add a second slice of bread, spread with Tzatziki again.</step>
+    <step>Put mango slices and again crab.</step>
+    <step>Close the sandwich with a third slice of bread.</step>
+    <step>Stick with a toothpick topped with a cherry tomato.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Israeli Sandwich</title>
+  <ingredients>
+    <ingredient quantity="" unit="unit" food="Bread">Bread</ingredient>
+    <ingredient quantity="" unit="unit" food="Avocado">avocado</ingredient>
+    <ingredient quantity="" unit="unit" food="Hard-boiled egg">hard-boiled egg</ingredient>
+    <ingredient quantity="" unit="unit" food="Lemon">lemon</ingredient>
+    <ingredient quantity="" unit="unit" food="Lettuce">lettuce</ingredient>
+    <ingredient quantity="" unit="unit" food="Mayonnaise">mayonnaise</ingredient>
+    <ingredient quantity="" unit="unit" food="Salt">salt</ingredient>
+    <ingredient quantity="" unit="unit" food="Pepper">pepper</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Diced hard-boiled egg.</step>
+    <step>Cut a ripe avocado into small cubes.</step>
+    <step>In a bowl, mash the avocado with a squeeze of lemon juice, salt, and pepper.</step>
+    <step>Add egg and mix.</step>
+    <step>Then add a tablespoon of mayonnaise and mix again.</step>
+    <step>Garnish a slice of bread with salad and add the preparation</step>
+    <step>before cover with another slice of bread.}}</step>
+  </preparation>
+</recipe>
+</recipes>

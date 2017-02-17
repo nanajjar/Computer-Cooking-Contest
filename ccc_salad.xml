@@ -1,0 +1,2084 @@
+<?xml version="1.0"?>
+<recipes>
+    <recipe>
+        <recipeid>1</recipeid>
+        <title>Ancini di pepe salad</title>
+        <ingredients>
+            <ingredient ingredient="macaroni" quantity="0.5" unit="box" qualifiers="">1/2 Box anicini di pepe macaroni</ingredient>
+            <ingredient ingredient="pineapple_juice" quantity="2" unit="oz" qualifiers="crushed">2 cn Crushed pineapple in juice, 20 oz each</ingredient>
+            <ingredient ingredient="juice" quantity="2" unit="oz" qualifiers="">2 cn Mandarin oranges in juice, 11 oz each</ingredient>
+            <ingredient ingredient="maraschino_cherries" quantity="1" unit="jar" qualifiers="">1 Jar maraschino cherries</ingredient>
+            <ingredient ingredient="cool_whip" quantity="12" unit="oz" qualifiers="">12 oz Cool Whip Lite</ingredient>
+            <ingredient ingredient="sugar" quantity="0.75" unit="c" qualifiers="">3/4 c Sugar</ingredient>
+            <ingredient ingredient="" quantity="0.5" unit="c" qualifiers="">1/2 c Egg Beaters 99% egg substitute</ingredient>
+            <ingredient ingredient="cornstarch" quantity="3" unit="blsp" qualifiers="">3 tb Cornstarch</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Drain all fruit juices into a saucepan</step>
+            <step>Add sugar, egg substitute and cornstarch</step>
+            <step>Stir together and cook on medium heat, stirring constantly, until thick</step>
+            <step>Cook macaroni according to package directions</step>
+            <step>Drain and combine hot macaroni and sauce</step>
+            <step>Cool at least 4 hours</step>
+            <step>Fold in drained fruit and Cool Whip</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>10</recipeid>
+        <title>Chinese chicken salad</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="1" unit="sp" qualifiers="">1 ts Salt</ingredient>
+            <ingredient ingredient="lemon_juice" quantity="2" unit="blsp" qualifiers="">2 tb Lemon juice</ingredient>
+            <ingredient ingredient="flour" quantity="0.5" unit="c" qualifiers="">1/2 c Flour</ingredient>
+            <ingredient ingredient="sugar" quantity="2" unit="sp" qualifiers="">2 ts Sugar</ingredient>
+            <ingredient ingredient="cornstarch" quantity="2" unit="blsp" qualifiers="">2 tb Cornstarch</ingredient>
+            <ingredient ingredient="sesame_seed" quantity="0.5" unit="c" qualifiers="toasted">1/2 c Sesame seeds, toasted</ingredient>
+            <ingredient ingredient="oil" quantity="2" unit="blsp" qualifiers="optional">2 tb Oil, optional, see*</ingredient>
+            <ingredient ingredient="chicken_breast" quantity="4" unit="" qualifiers="">4 Chicken breasts, **below</ingredient>
+            <ingredient ingredient="ceberg_lettuce" quantity="1" unit="" qualifiers="">1 Head iceberg lettuce, shred</ingredient>
+            <ingredient ingredient="" quantity="2" unit="blsp" qualifiers="minced">2 tb Fresh ginger, minced</ingredient>
+            <ingredient ingredient="_onion" quantity="4" unit="" qualifiers="whole,minced">4 Whole green onions, minced</ingredient>
+            <ingredient ingredient="cilantro" quantity="1" unit="bn" qualifiers="mall">1 bn Cilantro, sm</ingredient>
+            <ingredient ingredient="asian_rice_noodle" quantity="1" unit="can" qualifiers="">1 Can RICE noodles, *below</ingredient>
+            <ingredient ingredient="ound_mustard" quantity="1" unit="sp" qualifiers="">1 ts Dry mustard</ingredient>
+            <ingredient ingredient="sesame_oil" quantity="2" unit="sp" qualifiers="">2 ts Sesame oil</ingredient>
+            <ingredient ingredient="lemon_peel" quantity="2" unit="sp" qualifiers="grated">2 ts Grated lemon peel</ingredient>
+            <ingredient ingredient="salad_oil" quantity="0.5" unit="c" qualifiers="your choice">1/2 c Salad oil, your choice</ingredient>
+            <ingredient ingredient="soy_sauce" quantity="4" unit="sp" qualifiers="">4 ts Soy sauce</ingredient>
+        </ingredients>
+        <preparation>
+            <step>*Note: You can prepare your own rice sticks for this recipe, but a can of these makes it quicker to fix</step>
+            <step>In wide pan toast sesame seeds until golden (about 2 minutes, shaking pan frequently to avoid burning)</step>
+            <step>Set aside</step>
+            <step>*Note: I have often used leftover shredded cooked chicken (especially poached without oil), but you can stir-fry in the following manner: Mix together flour, cornstarch and salt</step>
+            <step>Dredge chicken in flour mixture; shake off excess</step>
+            <step>Pour oil in pan</step>
+            <step>Add chicken and stir-fry (about 5 minutes, or until pink is gone</step>
+            <step>Drain and cool</step>
+            <step>Meanwhile prepare dressing and set aside</step>
+            <step>Shred lettuce</step>
+            <step>Place lettuce, chicken, green onion, and cilantro leaves in large bowl</step>
+            <step>Sprinkle with sesame seeds, drizzle with dressing and toss</step>
+            <step>Sprinkle rice noodles on top of each serving AFTER applying dressing</step>
+            <step>Adapted from a Sunset recipe</step>
+            <step>Judy Garnett,Raleigh,NC If desired, substitute honey for the sugar</step>
+            <step>Leftover grilled chicken in strips is good in this also</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>11</recipeid>
+        <title>Cold vegetable salad</title>
+        <ingredients>
+            <ingredient ingredient="sugar" quantity="1.5" unit="c" qualifiers="">1 1/2 c Sugar</ingredient>
+            <ingredient ingredient="_bean" quantity="1" unit="can" qualifiers="">1 cn (16-oz) green beans</ingredient>
+            <ingredient ingredient="_pea" quantity="1" unit="can" qualifiers="">1 cn (16-oz) green peas</ingredient>
+            <ingredient ingredient="onion" quantity="1" unit="" qualifiers="ced">1 Onion, sliced</ingredient>
+            <ingredient ingredient="sweet_green_pepper" quantity="1" unit="" qualifiers="chopped">1 Green pepper, chopped</ingredient>
+            <ingredient ingredient="water_chestnut" quantity="1" unit="can" qualifiers="">1 cn (7-oz) water chestnuts</ingredient>
+            <ingredient ingredient="mung_bean_sprout" quantity="1" unit="can" qualifiers="">1 cn (11-oz) bean sprouts</ingredient>
+            <ingredient ingredient="mushroom" quantity="1" unit="can" qualifiers="whole">1 cn (6-oz) whole mushrooms</ingredient>
+            <ingredient ingredient="corn" quantity="1" unit="can" qualifiers="">1 cn (12-oz) shoe peg corn</ingredient>
+            <ingredient ingredient="allspice" quantity="1" unit="jar" qualifiers="">1 Jar (4-oz) pimiento</ingredient>
+            <ingredient ingredient="celery" quantity="1" unit="c" qualifiers="chopped">1 c Chopped celery</ingredient>
+            <ingredient ingredient="cauliflower" quantity="1" unit="" qualifiers="parated,floret">1 Head cauliflower, separated into florets</ingredient>
+            <ingredient ingredient="carrot" quantity="3" unit="" qualifiers="ced">3 Carrots, sliced</ingredient>
+            <ingredient ingredient="white_vinegar" quantity="2.5" unit="c" qualifiers="">2 1/2 c White vinegar</ingredient>
+            <ingredient ingredient="oil" quantity="1" unit="c" qualifiers="">1 c Oil</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Combine beans, peas, onion, pepper, water chestnuts, bean sprouts, mushrooms, corn, pimiento, celery, cauliflower and carrots</step>
+            <step>Combine sugar, vinegar and oil</step>
+            <step>Season to taste with salt and pepper</step>
+            <step>Heat until sugar melts</step>
+            <step>Cool</step>
+            <step>Pour over vegetables and chill at least 8 hours</step>
+            <step>Serves 10</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>12</recipeid>
+        <title>Copper penny carrot salad</title>
+        <ingredients>
+            <ingredient ingredient="sugar" quantity="0.5" unit="c" qualifiers="">1/2 c Sugar</ingredient>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="to taste">Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="" unit="" qualifiers="to taste">pepper to taste</ingredient>
+            <ingredient ingredient="arlic" quantity="1" unit="" qualifiers="chopped">1 Clove garlic, chopped</ingredient>
+            <ingredient ingredient="carrot" quantity="2" unit="can" qualifiers="ced">2 cn Sliced carrots</ingredient>
+            <ingredient ingredient="sweet_pepper" quantity="1" unit="" qualifiers="ced">1 Sliced bell pepper</ingredient>
+            <ingredient ingredient="omato_soup" quantity="1" unit="can" qualifiers="">1 cn Tomato soup</ingredient>
+            <ingredient ingredient="mustard" quantity="1" unit="sp" qualifiers="prepared">1 ts Prepared mustard</ingredient>
+            <ingredient ingredient="onion" quantity="1" unit="" qualifiers="ced">1 Onion, sliced in rings</ingredient>
+            <ingredient ingredient="salad_oil" quantity="0.5" unit="c" qualifiers="">1/2 c Salad oil</ingredient>
+            <ingredient ingredient="vinegar" quantity="0.67" unit="c" qualifiers="">2/3 c Vinegar</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Drain carrots, pour into large bowl</step>
+            <step>Add onions and bell pepper into bowl</step>
+            <step>Combine remaining ingredients, bring to boil</step>
+            <step>Pour over carrot mixture, mix well and referigerate</step>
+        </preparation>
+        <diet>
+            
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>13</recipeid>
+        <title>Crab and pea salad elegante</title>
+        <ingredients>
+            <ingredient ingredient="curry_powder" quantity="0.5" unit="sp" qualifiers="">1/2 ts Curry powder</ingredient>
+            <ingredient ingredient="mayonnaise" quantity="0.5" unit="c" qualifiers="">1/2 c Mayonnaise</ingredient>
+            <ingredient ingredient="crabmeat" quantity="12" unit="oz" qualifiers="drained,flaked">12 oz Refrigerated salad-style Imitation crabmeat, drained And flaked</ingredient>
+            <ingredient ingredient="pea" quantity="15" unit="oz can" qualifiers="mall,drained">15 oz Can Very Young Small Early Peas, drained</ingredient>
+            <ingredient ingredient="_onion" quantity="0.5" unit="c" qualifiers="ced">1/2 c Green onions, sliced</ingredient>
+            <ingredient ingredient="chestnut" quantity="8" unit="oz can" qualifiers="ced,drained">8 oz Can sliced waer chestnuts Drained</ingredient>
+            <ingredient ingredient="jon_mustard" quantity="2" unit="sp" qualifiers="">2 ts Dijon mustard</ingredient>
+            <ingredient ingredient="lemon_juice" quantity="2" unit="sp" qualifiers="">2 ts Lemon juice</ingredient>
+            <ingredient ingredient="lettuce" quantity="" unit="" qualifiers=",leaf">Leaft lettuce leaves</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Combine first 4 ingredients in a large bowl; toss</step>
+            <step>Combine mayonnaise, mustard, lemon juice, and curry powder; stir well and add to crab mixture</step>
+            <step>Stir gently to combine</step>
+            <step>Cover with plastic wrap and chill 2 hours</step>
+            <step>Serve on lettuce leaves, and sprinkle with pecans, if desired</step>
+            <step>Yield: 4 to 6 servings</step>
+            <step>Crab and Pea Quiche: Prepare recipe as directed above, omitting lemon juice and adding 3 beaten eggs to mayonnaise mixture</step>
+            <step>Prepare 1 sheet Pillsbury All Ready Pie Crust according to package directions for an unfilled one-crust pie using a 10-inch tart pan</step>
+            <step>Do not prick crust</step>
+            <step>Partially bake pastry shell at 450 degrees for 9 to 11 minutes or until golden brown</step>
+            <step>(If crust puffs up, gently press back to bottom and sides fo pan with back of wooden spoon</step>
+            <step>) Spoon crab mixture into pastry shell</step>
+            <step>Bake at 375 degrees for 40 to 45 minutes or until set</step>
+            <step>Sprinkle with pecans, if desired</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>14</recipeid>
+        <title>Cranberry fruit salad</title>
+        <ingredients>
+            <ingredient ingredient="walnut" quantity="0.5" unit="c" qualifiers="chopped">1/2 c Chopped walnuts</ingredient>
+            <ingredient ingredient="latin" quantity="6" unit="oz" qualifiers="">6 oz Package raspberry gelatin</ingredient>
+            <ingredient ingredient="water" quantity="2" unit="c" qualifiers="boiling">2 c Boiling water</ingredient>
+            <ingredient ingredient="cranberry_sauce" quantity="16" unit="oz can" qualifiers="">16 oz Can jellied cranberry sauce</ingredient>
+            <ingredient ingredient="pineapple" quantity="8.75" unit="oz can" qualifiers="crushed">8 3/4 oz Can crushed pineapple</ingredient>
+            <ingredient ingredient="orange_juice" quantity="0.75" unit="c" qualifiers="h">3/4 c Fresh orange juice</ingredient>
+            <ingredient ingredient="lemon_juice" quantity="1" unit="blsp" qualifiers="h">1 tb Fresh lemon juice</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Disolve gelatin in boiling water</step>
+            <step>Break up and stir in cranberry sauce, undrained pineapple, orange juice, lemon juice, and nuts</step>
+            <step>Pour into a shallow caserole dish</step>
+            <step>Chill until firm</step>
+            <step>Cut into squares and serve on lettuce leaves with salad dressing</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>15</recipeid>
+        <title>Creamy waldorf salad</title>
+        <ingredients>
+            <ingredient ingredient="sugar" quantity="1" unit="blsp" qualifiers="">1 tb Sugar</ingredient>
+            <ingredient ingredient="salt" quantity="0.5" unit="sp" qualifiers="">1/2 ts Salt</ingredient>
+            <ingredient ingredient="lemon_juice" quantity="1" unit="blsp" qualifiers="">1 tb Lemon juice</ingredient>
+            <ingredient ingredient="sour_cream" quantity="1" unit="c" qualifiers="">1 c Sour cream</ingredient>
+            <ingredient ingredient="celery" quantity="1" unit="c" qualifiers="chopped">1 c Chopped celery</ingredient>
+            <ingredient ingredient="apple" quantity="2" unit="" qualifiers="ge,chopped">2 lg Red apples, chopped</ingredient>
+            <ingredient ingredient="walnut" quantity="0.33" unit="c" qualifiers="chopped">1/3 c Chopped walnuts</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Combine sour cream, sugar, salt and lemon juice</step>
+            <step>Combine apples, celery and walnuts and fold in dressing mixture</step>
+            <step>Serve immediately</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>16</recipeid>
+        <title>Curried rice salad (k-parve)</title>
+        <ingredients>
+            <ingredient ingredient="sugar" quantity="1" unit="blsp" qualifiers="">1 tb Sugar</ingredient>
+            <ingredient ingredient="arlic" quantity="1" unit="" qualifiers="minced">1 Clove garlic, minced</ingredient>
+            <ingredient ingredient="aisin" quantity="0.25" unit="c" qualifiers="">1/4 c Raisins</ingredient>
+            <ingredient ingredient="curry_powder" quantity="1" unit="blsp" qualifiers="">1 tb Curry powder</ingredient>
+            <ingredient ingredient="pepper" quantity="1" unit="ds" qualifiers="">1 ds Pepper</ingredient>
+            <ingredient ingredient="olive_oil" quantity="0.5" unit="c" qualifiers="">1/2 c Olive oil</ingredient>
+            <ingredient ingredient="ce" quantity="2" unit="c" qualifiers="ncooked">2 c Uncooked rice</ingredient>
+            <ingredient ingredient="sweet_green_pepper" quantity="0.5" unit="" qualifiers="nely chopped">1/2 Green pepper, finely chopped</ingredient>
+            <ingredient ingredient="cayenne_pepper" quantity="0.5" unit="" qualifiers="nely chopped">1/2 Red pepper, finely chopped</ingredient>
+            <ingredient ingredient="parsley" quantity="3" unit="blsp" qualifiers="">3 tb Parsley</ingredient>
+            <ingredient ingredient="_onion" quantity="2" unit="" qualifiers="chopped">2 Scallions, chopped</ingredient>
+            <ingredient ingredient="celery" quantity="0.5" unit="c" qualifiers="chopped">1/2 c Celery, chopped</ingredient>
+            <ingredient ingredient="white_wine_vinegar" quantity="0.33" unit="c" qualifiers="">1/3 c White wine vinegar</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Cook rice and cool completely</step>
+            <step>Add vegetables and refrigerate</step>
+            <step>Before serving add dressing</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>17</recipeid>
+        <title>Curried spinach salad</title>
+        <ingredients>
+            <ingredient ingredient="oil" quantity="2" unit="blsp" qualifiers="">2 tb Oil</ingredient>
+            <ingredient ingredient="salt" quantity="0.25" unit="sp" qualifiers="">1/4 ts Salt</ingredient>
+            <ingredient ingredient="aisin" quantity="0.25" unit="c" qualifiers="">1/4 c Raisins</ingredient>
+            <ingredient ingredient="curry_powder" quantity="1" unit="sp" qualifiers="">1 ts Curry powder</ingredient>
+            <ingredient ingredient="soy_sauce" quantity="2" unit="blsp" qualifiers="">2 tb Soy sauce</ingredient>
+            <ingredient ingredient="mustard" quantity="1" unit="sp" qualifiers="prepared">1 ts Prepared mustard</ingredient>
+            <ingredient ingredient="chicken_breast" quantity="2" unit="" qualifiers="w,whole,cut">2 Chicken breasts, raw, whole, cut into thin strips</ingredient>
+            <ingredient ingredient="spinach" quantity="6" unit="c" qualifiers="torn">6 c Spinach, torn</ingredient>
+            <ingredient ingredient="apple" quantity="1" unit="c" qualifiers="chopped">1 c Apple, tart, chopped</ingredient>
+            <ingredient ingredient="peanut" quantity="0.25" unit="c" qualifiers="">1/4 c Peanuts</ingredient>
+            <ingredient ingredient="pancake_syrup" quantity="0.5" unit="c" qualifiers="">1/2 c Maple-flavored syrup</ingredient>
+            <ingredient ingredient="cider_vinegar" quantity="0.5" unit="c" qualifiers="">1/2 c Cider vinegar</ingredient>
+            <ingredient ingredient="onion" quantity="1" unit="blsp" qualifiers="nstant,minced">1 tb Instant minced onion</ingredient>
+        </ingredients>
+        <preparation>
+            <step>For Dressing: Combine all in blender</step>
+            <step>Blend 15 seconds</step>
+            <step>Chill 4 hours or overnight</step>
+            <step>Makes 1-2/3 cups dressing</step>
+            <step>60 calories per tablespoon</step>
+            <step>Saute chicken in oil after marinating in soy sauce</step>
+            <step>Drain and chill 4 hours or overnight</step>
+            <step>For Salad: Combine spinach with 1 cup dressing or less if desired and toss</step>
+            <step>Divide into 4 plates</step>
+            <step>Divide chicken, apple, peanuts, raisins and place on top of spinach</step>
+            <step>Serve immediately with additional dressing if desired</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>18</recipeid>
+        <title>Dilly potato salad</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="0.25" unit="sp" qualifiers="">1/4 ts Salt</ingredient>
+            <ingredient ingredient="mayonnaise" quantity="0.25" unit="c" qualifiers="">1/4 c Mayonnaise</ingredient>
+            <ingredient ingredient="plain_yogurt" quantity="0.5" unit="c" qualifiers="">1/2 c Plain yogurt</ingredient>
+            <ingredient ingredient="pepper" quantity="" unit="" qualifiers="hly ground">Freshly ground pepper</ingredient>
+            <ingredient ingredient="sugar" quantity="0.5" unit="sp" qualifiers="">1/2 ts Sugar</ingredient>
+            <ingredient ingredient="celery" quantity="0.5" unit="c" qualifiers="chopped">1/2 c Chopped celery</ingredient>
+            <ingredient ingredient="white_wine_vinegar" quantity="2" unit="blsp" qualifiers="">2 tb White wine vinegar</ingredient>
+            <ingredient ingredient="potato" quantity="1.5" unit="lb" qualifiers="teamed,cut,chunk">1 1/2 lb Potatoes steamed, cut in chunks</ingredient>
+            <ingredient ingredient="pea" quantity="1" unit="c" qualifiers="cooked,drained">1 c Peas, cooked and drained</ingredient>
+            <ingredient ingredient="arlic" quantity="1" unit="" qualifiers="halved">1 Garlic clove, halved</ingredient>
+            <ingredient ingredient="jon_mustard" quantity="1" unit="blsp" qualifiers="">1 tb Dijon mustard</ingredient>
+            <ingredient ingredient="_onion" quantity="6" unit="" qualifiers="nely sliced">6 Scallions, finely sliced</ingredient>
+            <ingredient ingredient="ll" quantity="6" unit="blsp" qualifiers="h,chopped">6 tb Fresh dill, chopped</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Prepare potatoes and peas</step>
+            <step>Set aside to cool; add celery</step>
+            <step>Sprinkle salt in a salad bowl</step>
+            <step>Rub garlic around bowl; discard garlic</step>
+            <step>Add vinegar, mustard, sugar, mayonnaise, yogurt, scallions and dill</step>
+            <step>Mix until combined</step>
+            <step>Add potatoes, peas and celery, along with freshly ground pepper to taste</step>
+            <step>Mix together gently</step>
+            <step>Garnish with sprigs of dill</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>19</recipeid>
+        <title>Endive beet and red-onion salad</title>
+        <ingredients>
+            <ingredient ingredient="jon_mustard" quantity="1" unit="blsp" qualifiers="">1 tb Dijon Mustard</ingredient>
+            <ingredient ingredient="vegetable_oil" quantity="3" unit="blsp" qualifiers="">3 tb Vegetable oil</ingredient>
+            <ingredient ingredient="beet" quantity="0.5" unit="lb" qualifiers="w,trimed">1/2 lb Raw Beets, trimmed</ingredient>
+            <ingredient ingredient="ve" quantity="3" unit="" qualifiers="medium">3 Heads of Belgian Endives, md</ingredient>
+            <ingredient ingredient="_onion" quantity="1" unit="" qualifiers="">1 Red onion</ingredient>
+            <ingredient ingredient="_wine_vinegar" quantity="1" unit="blsp" qualifiers="">1 tb Red Wine Vinegar</ingredient>
+            <ingredient ingredient="parsley" quantity="4" unit="blsp" qualifiers="nely chopped">4 tb Finely Chopped Parsley</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Place the beets in a saucepan and add water to cover with salt</step>
+            <step>Bring to a boil until the beets are tender, about 30 minutes, depending on the size or age of the beets</step>
+            <step>Drain and let cool</step>
+            <step>Remove the skins and slice the beets</step>
+            <step>Trim off the bottom of the endives and cut them into 1 1/2 inch strips</step>
+            <step>Drop the pieces into cold water</step>
+            <step>Drain and pat dry</step>
+            <step>Peel and slice the onion</step>
+            <step>Combine the mustard, vinegar, salt and pepper in a salad bowl</step>
+            <step>Add the oil and blend well with a wire whisk</step>
+            <step>Add the beets, endive, onion and parsley</step>
+            <step>Toss well and serve</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>2</recipeid>
+        <title>Antipasto potato salad</title>
+        <ingredients>
+            <ingredient ingredient="-skinned_potato" quantity="2" unit="lb" qualifiers="mall,unpeeled,round">2 lb Small, unpeeled round red potatoes</ingredient>
+            <ingredient ingredient="artichoke_heart" quantity="1" unit="can" qualifiers="drained">1 cn Artichoke hearts, drained</ingredient>
+            <ingredient ingredient="black_olive" quantity="0.67" unit="c" qualifiers="ced">2/3 c Ripe olives, sliced (we use the whole can)</ingredient>
+            <ingredient ingredient="onion" quantity="0.5" unit="c" qualifiers="diced">1/2 c Diced purple onion</ingredient>
+            <ingredient ingredient="parsley" quantity="2" unit="blsp" qualifiers="chopped,fresh">2 tb Chopped fresh parsley</ingredient>
+            <ingredient ingredient="white_wine_vinegar" quantity="0.33" unit="c" qualifiers="">1/3 c White wine vinegar (I use homemade tarragon-garlic vinegar or my personal favorite, zesty Italian surprize also homemade.)</ingredient>
+            <ingredient ingredient="oregano" quantity="0.75" unit="sp" qualifiers="dried,whole">3/4 ts Dried whole oregano</ingredient>
+            <ingredient ingredient="salt" quantity="0.5" unit="sp" qualifiers="">1/2 ts Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="0.5" unit="sp" qualifiers="">1/2 ts Pepper</ingredient>
+            <ingredient ingredient="ound_mustard" quantity="0.25" unit="sp" qualifiers="">1/4 ts Dry mustard</ingredient>
+            <ingredient ingredient="xtra_virgin_olive_oil" quantity="2" unit="blsp" qualifiers="">2 tb Extra virgin olive oil</ingredient>
+            <ingredient ingredient="arlic" quantity="1" unit="" qualifiers="minced">1 Clove garlic, minced</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Place potatoes in water, bring to boil</step>
+            <step>Cover, reduce heat, and simmer 20 minutes</step>
+            <step>Cut potatoes into quarters, ditto artichokes</step>
+            <step>Add olives, onion, and parsley</step>
+            <step>Combine vinegar and next six ingredients and stir well</step>
+            <step>Pour over potato mixture and toss gently</step>
+            <step>Serve warm or cover and chill</step>
+            <step>8 servings</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>20</recipeid>
+        <title>Ensalada de jicama y naranja (jicama and orange salad)</title>
+        <ingredients>
+            <ingredient ingredient="juice" quantity="" unit="" qualifiers="">Juice of 2 limes</ingredient>
+            <ingredient ingredient="chili_powder" quantity="0.25" unit="sp" qualifiers="">1/4 ts Chile powder, habanero</ingredient>
+            <ingredient ingredient="orange" quantity="2" unit="" qualifiers="mall,cut">2 sm Oranges, cut in segments</ingredient>
+            <ingredient ingredient="arrowroot" quantity="1" unit="" qualifiers="mall,cut">1 sm Jicama, juilenne cut</ingredient>
+            <ingredient ingredient="_onion" quantity="3" unit="" qualifiers="thinly sliced">3 Scallions, thinly sliced</ingredient>
+            <ingredient ingredient="cilantro" quantity="" unit="" qualifiers="chopped">Cilantro, chopped</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Combine the lime juice and habanero powder</step>
+            <step>Arrange the orange segments on a platter and top with the jicama and onions</step>
+            <step>Pour the lime juice mixture over the salad, garmish with the cilantro, and serve</step>
+        </preparation>
+        <diet>
+            
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>21</recipeid>
+        <title>Ensalada de naranja orange salad</title>
+        <ingredients>
+            <ingredient ingredient="black_pepper" quantity="0.25" unit="sp" qualifiers="hly ground">1/4 ts Freshly ground black pepper</ingredient>
+            <ingredient ingredient="wine_vinegar" quantity="1" unit="blsp" qualifiers="">1 tb Wine vinegar</ingredient>
+            <ingredient ingredient="ceberg_lettuce" quantity="1" unit="" qualifiers="hredded">1 Head lettuce, shredded</ingredient>
+            <ingredient ingredient="orange_peel" quantity="2" unit="" qualifiers="thick,slice">2 Oranges, peel and thickly slice</ingredient>
+            <ingredient ingredient="cucumber" quantity="1" unit="" qualifiers="npeeled,slice">1 Cucumber, unpeeled,thin slices</ingredient>
+            <ingredient ingredient="onion" quantity="1" unit="" qualifiers="cut in rings">1 Onion, cut in rings</ingredient>
+            <ingredient ingredient="poblano_pepper" quantity="1" unit="" qualifiers="cut in rings">1 Poblano pepper, cut in rings</ingredient>
+            <ingredient ingredient="sesame_oil" quantity="3" unit="blsp" qualifiers="">3 tb Sesame oil</ingredient>
+            <ingredient ingredient="sea_salt" quantity="0.25" unit="sp" qualifiers="">1/4 ts Sea salt</ingredient>
+            <ingredient ingredient="cilantro" quantity="0.25" unit="sp" qualifiers="">1/4 ts Cilantro</ingredient>
+            <ingredient ingredient="cumin" quantity="0.25" unit="sp" qualifiers="">1/4 ts Cumin seed</ingredient>
+            <ingredient ingredient="parsley" quantity="1" unit="blsp" qualifiers="chopped">1 tb Chopped parsley</ingredient>
+        </ingredients>
+        <preparation>
+            <step>1</step>
+            <step>Arrange the salad ingredients in a salad bowl</step>
+            <step>Put all dressing ingredients into a bottle and shake them well</step>
+            <step>Pour the dressing over the salad just before serving</step>
+        </preparation>
+        <diet>
+            
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>22</recipeid>
+        <title>Exquisite salad (rice/chicken salad)</title>
+        <ingredients>
+            <ingredient ingredient="anulated_sugar" quantity="1" unit="sp" qualifiers="">1 ts Granulated sugar</ingredient>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="to taste">Salt -- to taste</ingredient>
+            <ingredient ingredient="basmati_rice" quantity="0.5" unit="c" qualifiers="ncooked">1/2 c Uncooked basmati rice</ingredient>
+            <ingredient ingredient="brown_rice" quantity="0.5" unit="c" qualifiers="ncooked">1/2 c Uncooked brown rice</ingredient>
+            <ingredient ingredient="white_wine_vinegar" quantity="0.25" unit="c" qualifiers="">1/4 c White wine vinegar</ingredient>
+            <ingredient ingredient="xtra_virgin_olive_oil" quantity="0.75" unit="c" qualifiers="">3/4 c Extra virgin olive oil</ingredient>
+            <ingredient ingredient="arlic" quantity="1" unit="" qualifiers="minced">1 Clove garlic -- minced</ingredient>
+            <ingredient ingredient="cilantro" quantity="1" unit="c" qualifiers="">1 c Cilantro leaves</ingredient>
+            <ingredient ingredient="white_pepper" quantity="" unit="" qualifiers="to taste">White pepper -- to taste</ingredient>
+            <ingredient ingredient="chicken" quantity="2" unit="c" qualifiers="cooked,shredded,chilled">2 c Cooked chicken Shredded/chilled</ingredient>
+            <ingredient ingredient="_onion" quantity="1" unit="bn" qualifiers="ced">1 bn Green onions with tops Sliced</ingredient>
+            <ingredient ingredient="omato" quantity="1" unit="c" qualifiers="diced">1 c Tomatoes -- diced</ingredient>
+            <ingredient ingredient="scarole" quantity="2" unit="c" qualifiers="chopped">2 c Escarole -- chopped</ingredient>
+            <ingredient ingredient="asparagus" quantity="1.5" unit="c" qualifiers="cooked,cut,chilled">1 1/2 c Asparagus,cooked al dente Cut and chilled</ingredient>
+            <ingredient ingredient="avocado" quantity="1" unit="" qualifiers="chopped">1 Avocado -- chopped</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Prepare rice according to pkg</step>
+            <step>directions</step>
+            <step>C hill Plave vinegar, oil, sugar, garlic and cilantro in blender</step>
+            <step>Blend until smooth</step>
+            <step>Season to taste with salt and white pepper</step>
+            <step>Combine rice, chicken , green onions, tomato, escarole, asparagus and avocado</step>
+            <step>Toss with dressing</step>
+            <step>Serve immediately or chill to blend flavors</step>
+            <step>P</step>
+            <step>S</step>
+            <step>I have doubled this recipe - but not doubled the dressing and it was delicious</step>
+            <step>P</step>
+            <step>S</step>
+            <step>P</step>
+            <step>S</step>
+            <step>for the vegans out there - this is also great - sans the chicken</step>
+            <step>You might want to through in a few peanuts or chopped pecans</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>23</recipeid>
+        <title>Fennel salad</title>
+        <ingredients>
+            <ingredient ingredient="pepper" quantity="" unit="" qualifiers="hly ground">Freshly ground pepper</ingredient>
+            <ingredient ingredient="fennel" quantity="0.5" unit="" qualifiers="cut,thick">1/2 Fennel bulb, cut in thick strips</ingredient>
+            <ingredient ingredient="balsamic_vinegar" quantity="0.25" unit="c" qualifiers="">1/4 c Balsamic vinegar</ingredient>
+            <ingredient ingredient="ainy_mustard" quantity="1" unit="blsp" qualifiers="">1 tb Grainy mustard</ingredient>
+            <ingredient ingredient="orange" quantity="" unit="" qualifiers="mall">sm Orange or red tomatoes</ingredient>
+            <ingredient ingredient="_bean" quantity="" unit="" qualifiers="h,sliced">Fresh green beans, sliced</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Toss all this together for a very low cal snack or salad</step>
+            <step>Yummy</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>24</recipeid>
+        <title>Fresh tomato onion and basil salad</title>
+        <ingredients>
+            <ingredient ingredient="onion" quantity="" unit="" qualifiers="">Onions</ingredient>
+            <ingredient ingredient="omato" quantity="" unit="" qualifiers="pe,firm,sliced">Vine ripened firm tomatoes, sliced</ingredient>
+            <ingredient ingredient="basil" quantity="" unit="" qualifiers="h,chopped">Fresh Basil -- chopped</ingredient>
+            <ingredient ingredient="olive_oil" quantity="" unit="" qualifiers="your favorite">Your favorite olive oil -- I like extra virgin</ingredient>
+            <ingredient ingredient="wine_vinegar" quantity="" unit="" qualifiers="your favorite">Your favorite wine vinegar</ingredient>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="to taste">Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="" unit="" qualifiers="to taste">Pepper -- to taste</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Layer vegetables in a shallow dish</step>
+            <step>Rectangular containers work well</step>
+            <step>Distribute basil into layers</step>
+            <step>Add enough oil and vinegar to cover vegetables</step>
+            <step>Season with salt and pepper to taste</step>
+            <step>Cover and refrigerate for at least one hour to allow flavors to blend</step>
+            <step>This will keep for several days, especially if the tomatoes are nice and firm</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>25</recipeid>
+        <title>Fresh-tuna salad nicoise</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="">Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="" unit="" qualifiers="">pepper</ingredient>
+            <ingredient ingredient="olive_oil" quantity="1" unit="blsp" qualifiers="">1 tb Olive oil</ingredient>
+            <ingredient ingredient="cube_steak" quantity="3" unit="" qualifiers="">3 Eight-ounce tuna steaks</ingredient>
+            <ingredient ingredient="cherry_tomato" quantity="24" unit="" qualifiers="whole">24 Whole cherry tomatoes</ingredient>
+            <ingredient ingredient="_onion" quantity="7" unit="" qualifiers="whole,cut">7 Whole scallions -- cut into 1/2 " wedges</ingredient>
+            <ingredient ingredient="caper" quantity="3" unit="sp" qualifiers="">3 ts Capers</ingredient>
+            <ingredient ingredient="coise_olive" quantity="0.5" unit="c" qualifiers="pitted">1/2 c Nicoise olives -- pitted</ingredient>
+            <ingredient ingredient="anchovy_fillet" quantity="3" unit="" qualifiers="whole,rinsed,minced">3 Whole anchovy fillets Rinsed and minced</ingredient>
+            <ingredient ingredient="vinaigrette" quantity="0.25" unit="c" qualifiers="">1/4 c Nicoise vinaigrette</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Brush grill lightly with oil</step>
+            <step>Heat grill to medium hot</step>
+            <step>rub tuna with oil</step>
+            <step>Sprinkle with salt and pepper</step>
+            <step>Sear until just pink in center, 3 to 3 1/2 minutes per side</step>
+            <step>Let cool</step>
+            <step>slice across into 1/4-inch strips</step>
+            <step>Toss tuna, tomatoes, scallions, watercress, capers, olives and anchovies with vinaigrette</step>
+            <step>Serve at room temperature</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>26</recipeid>
+        <title>Frozen fruit salad 1</title>
+        <ingredients>
+            <ingredient ingredient="lemon_juice" quantity="3" unit="blsp" qualifiers="">3 tb Lemon juice</ingredient>
+            <ingredient ingredient="fruit" quantity="1" unit="can" qualifiers="">1 cn (no. 2) fruit cocktail</ingredient>
+            <ingredient ingredient="pineapple" quantity="1" unit="can" qualifiers="crushed">1 cn (no. 2) crushed pineapple</ingredient>
+            <ingredient ingredient="sour_cream" quantity="1" unit="ct" qualifiers="">1 ct (2-cup) sour cream</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Mix all ingredients together and freeze either in molds or casserole</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>27</recipeid>
+        <title>Frozen salad</title>
+        <ingredients>
+            <ingredient ingredient="sugar" quantity="1" unit="c" qualifiers="">1 c Sugar</ingredient>
+            <ingredient ingredient="mayonnaise" quantity="0.5" unit="c" qualifiers="">1/2 c Mayonnaise</ingredient>
+            <ingredient ingredient="pineapple" quantity="1.5" unit="c" qualifiers="canned,cut,small,piece">1 1/2 c Pineapple, canned, cut into small pieces</ingredient>
+            <ingredient ingredient="apricot" quantity="1" unit="can" qualifiers="chopped">1 cn (large) apricots, chopped</ingredient>
+            <ingredient ingredient="maraschino_liqueur" quantity="1" unit="bottle" qualifiers="ge,chopped">1 lg Bottle Maraschino cherrie, chopped</ingredient>
+            <ingredient ingredient="cream_cheese" quantity="2" unit="pk" qualifiers="oftened">2 pk (8 oz) cream cheese, softened</ingredient>
+            <ingredient ingredient="light_whipping_cream" quantity="1" unit="pt" qualifiers="">1 pt Whipping cream</ingredient>
+            <ingredient ingredient="black_walnut" quantity="1" unit="c" qualifiers="">1 c Walnuts/pecans, black walnuts are great, too.</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Drain fruits thoroughly</step>
+            <step>Mix sugar with fruit and let stand 1 hr</step>
+            <step>Whip cream cheese</step>
+            <step>Add mayonnaise and beat</step>
+            <step>Stir this mixture into fruit</step>
+            <step>Add walnuts/pecans</step>
+            <step>Freeze</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Alcoholic free</exlcude-for-diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>28</recipeid>
+        <title>Grated vegetable salad with mustard vinaigrette</title>
+        <ingredients>
+            <ingredient ingredient="pepper" quantity="0.5" unit="sp" qualifiers="">1/2 ts Pepper</ingredient>
+            <ingredient ingredient="olive_oil" quantity="2" unit="blsp" qualifiers="">2 tb Olive oil</ingredient>
+            <ingredient ingredient="jon_mustard" quantity="2" unit="sp" qualifiers="">2 ts Dijon mustard</ingredient>
+            <ingredient ingredient="carrot" quantity="1" unit="" qualifiers="ge">1 lg Carrot</ingredient>
+            <ingredient ingredient="urnip" quantity="1" unit="" qualifiers="mall">1 sm Turnip</ingredient>
+            <ingredient ingredient="jerusalem_artichoke" quantity="1" unit="" qualifiers="">1 Jerusalem artichoke</ingredient>
+            <ingredient ingredient="beet" quantity="1" unit="" qualifiers="ge">1 lg Beet</ingredient>
+            <ingredient ingredient="lettuce" quantity="1" unit="" qualifiers="">1 Lettuce</ingredient>
+            <ingredient ingredient="juice" quantity="" unit="" qualifiers="mall">Juice of 1/2 small lemon</ingredient>
+            <ingredient ingredient="lime_juice" quantity="1" unit="sp" qualifiers="">1 ts Lime juice</ingredient>
+            <ingredient ingredient="arlic" quantity="2" unit="sp" qualifiers="minced">2 ts Minced garlic</ingredient>
+            <ingredient ingredient="cider_vinegar" quantity="1" unit="blsp" qualifiers="">1 tb Apple cider vinegar</ingredient>
+            <ingredient ingredient="salt_substitute" quantity="2" unit="sp" qualifiers="">2 ts Herbal salt substitute</ingredient>
+            <ingredient ingredient="safflower_oil" quantity="2" unit="sp" qualifiers="">2 ts Safflower oil</ingredient>
+        </ingredients>
+        <preparation>
+            <step>1</step>
+            <step>Grate carrot, turnip, Jerusalem artichoke, and beet, keeping them separated</step>
+            <step>Wash lettuce and arrange on 4 small salad plates</step>
+            <step>Spoon grated vegetables on top of lettuce</step>
+            <step>Sprinkle with fresh lemon juice</step>
+            <step>Mix together mustard, lime juice, garlic, vinegar, pepper, salt substitute, and oils</step>
+            <step>Drizzle over grated vegetables</step>
+            <step>Serve extra dressing in a sauceboat or cruet</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>29</recipeid>
+        <title>Greek salad dressing</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="0.5" unit="sp" qualifiers="">1/2 ts Salt</ingredient>
+            <ingredient ingredient="balsamic_vinegar" quantity="0.25" unit="c" qualifiers="">1/4 c Good balsamic vinegar</ingredient>
+            <ingredient ingredient="lemon_juice" quantity="0.5" unit="sp" qualifiers="">1/2 ts Lemon juice</ingredient>
+            <ingredient ingredient="arlic" quantity="1" unit="" qualifiers="nely chopped">1 Clove garlic very very finely chopped</ingredient>
+            <ingredient ingredient="jon_mustard" quantity="0.5" unit="sp" qualifiers="">1/2 ts Dijon style mustard</ingredient>
+            <ingredient ingredient="oregano" quantity="0.5" unit="sp" qualifiers="dried">1/2 ts Dried oregano</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Mix this all together very well and toss with torn romaine lettuce, slices of purple onion, and crumbled feta cheese</step>
+            <step>I hate olives so I leave them out but you can add them if you like</step>
+            <step>It's very delicious and much lower in fat than restaurant salads</step>
+        </preparation>
+        <diet>
+            
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>3</recipeid>
+        <title>Asian chicken salad w/spicy peanut sauce</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="0.25" unit="sp" qualifiers="">1/4 ts Salt</ingredient>
+            <ingredient ingredient="sugar" quantity="2" unit="blsp" qualifiers="">2 tb Sugar</ingredient>
+            <ingredient ingredient="seed" quantity="1.33" unit="blsp" qualifiers="">1 1/3 tb Seasame seeds</ingredient>
+            <ingredient ingredient="snow_pea" quantity="6" unit="oz" qualifiers="">6 oz Snow peas (fresh or frozen)</ingredient>
+            <ingredient ingredient="celery" quantity="0.5" unit="c" qualifiers="chopped">1/2 c Chopped celery (inner stalk)</ingredient>
+            <ingredient ingredient="corn" quantity="0.75" unit="c" qualifiers="">3/4 c Corn kernels (fresh/frozen)</ingredient>
+            <ingredient ingredient="cilantro" quantity="0.25" unit="c" qualifiers="chopped">1/4 c Chopped cilantro</ingredient>
+            <ingredient ingredient="pasta" quantity="0.5" unit="lb" qualifiers="">1/2 lb Pasta (short bite-sized)</ingredient>
+            <ingredient ingredient="chicken_breast" quantity="1" unit="lb" qualifiers="boneless,skinless">1 lb Boneless skinless chicken breasts</ingredient>
+            <ingredient ingredient="soy_sauce" quantity="2.67" unit="blsp" qualifiers="">2 2/3 tb Soy sauce</ingredient>
+            <ingredient ingredient="ce_vinegar" quantity="2.67" unit="blsp" qualifiers="nseasoned">2 2/3 tb Unseasoned rice vinegar</ingredient>
+            <ingredient ingredient="water" quantity="0.25" unit="c" qualifiers="cold">1/4 c Cold water</ingredient>
+            <ingredient ingredient="" quantity="1.5" unit="sp" qualifiers="minced">1 1/2 ts Minced ginger root</ingredient>
+            <ingredient ingredient="arlic" quantity="1" unit="sp" qualifiers="minced">1 ts Minced garlic</ingredient>
+            <ingredient ingredient="peanut" quantity="0.25" unit="c" qualifiers="ground,roasted">1/4 c Ground roasted peanuts</ingredient>
+            <ingredient ingredient="peanut_oil" quantity="2" unit="blsp" qualifiers="">2 tb Peanut oil</ingredient>
+            <ingredient ingredient="sesame_oil" quantity="2" unit="blsp" qualifiers="">2 tb Sesame oil</ingredient>
+            <ingredient ingredient="fresh_chile_pepper" quantity="2" unit="blsp" qualifiers="hot,to taste">2 tb Hot chili oil, or to taste</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Toast sesame seeds in a small, dry skillet over medium heat, stirring constantly until seeds are golden, 3-4 minutes</step>
+            <step>Blanch fresh snow peas and corn in boiling water for 30 seconds, or thaw if frozen</step>
+            <step>Cook pasta, drain and cool</step>
+            <step>Poach chicken in simmering water in a covered skillet until chicken is just done, about 15 to 20 minutes</step>
+            <step>Don't overcook</step>
+            <step>To prepare sauce, add first 7 ingredients to a blender and process on high speed 1 minute</step>
+            <step>Add ground peanuts and process 1 minute more</step>
+            <step>In a cup, combine oils and drizzle into blender mixture while blending at low speed</step>
+            <step>In a large bowl combine blanched or thawed corn, cooked pasta, celery, cilantro and 3/4 of the sauce</step>
+            <step>Chop chicken and arrange with snow peas over the pasta mixture</step>
+            <step>Top with remaining sauce and toasted sesame seeds</step>
+            <step>Serve chilled or at room temperature</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>30</recipeid>
+        <title>Green salad 2</title>
+        <ingredients>
+            <ingredient ingredient="spinach" quantity="0.5" unit="" qualifiers="washed,torn">1/2 Bag spinach, washed and torn</ingredient>
+            <ingredient ingredient="bacon" quantity="1" unit="lb" qualifiers="cooked,crumbled">1 lb Bacon, cooked and crumbled</ingredient>
+            <ingredient ingredient="" quantity="6" unit="" qualifiers="hard-boiled,sliced">6 Hard boiled eggs, sliced</ingredient>
+            <ingredient ingredient="ceberg_lettuce" quantity="1" unit="" qualifiers="mall,shredded">1 sm Head lettuce, shredded</ingredient>
+            <ingredient ingredient="white_onion" quantity="1" unit="" qualifiers="ge,sliced">1 lg White onion, sliced into rings</ingredient>
+            <ingredient ingredient="fresh_green_pea" quantity="1" unit="pk" qualifiers="ozen,thawed,uncooked">1 pk (10-oz) frozen english peas, thawed, but uncooked</ingredient>
+            <ingredient ingredient="mayonnaise" quantity="0.5" unit="pt" qualifiers="">1/2 pt Mayonnaise</ingredient>
+            <ingredient ingredient="salad_dressing" quantity="0.5" unit="pt" qualifiers="">1/2 pt Salad dressing</ingredient>
+            <ingredient ingredient="swiss_cheese" quantity="0.5" unit="c" qualifiers="grated">1/2 c Grated Swiss cheese</ingredient>
+        </ingredients>
+        <preparation>
+            <step>In the following order, place ingredients in layers in a casserole using all of one ingredient at a time</step>
+            <step>Start with spinach, then add crumbled bacon -- then add sliced eggs -- then add shredded lettuce -- then add sliced onions -- then add English peas</step>
+            <step>Mix and spread on top of all layers the mayonnaise and salad dressing</step>
+            <step>Sprinkle grated swiss cheese on top of all</step>
+            <step>Seal with Saran and refrigerate several hours before serving</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>31</recipeid>
+        <title>Hopping john vinaigrette</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="">Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="" unit="" qualifiers="">pepper</ingredient>
+            <ingredient ingredient="jon_mustard" quantity="1" unit="blsp" qualifiers="">1 tb Dijon mustard</ingredient>
+            <ingredient ingredient="black-eyed_pea" quantity="2" unit="c" qualifiers="dried">2 c Dried black-eyed peas</ingredient>
+            <ingredient ingredient="fatback" quantity="1" unit="" qualifiers="piece">1 Piece of fatback or salt pork</ingredient>
+            <ingredient ingredient="hot_red_pepper" quantity="1" unit="" qualifiers="">1 Hot red pepper</ingredient>
+            <ingredient ingredient="onion" quantity="2" unit="" qualifiers="medium,chopped">2 md Onions, chopped</ingredient>
+            <ingredient ingredient="ce" quantity="1" unit="c" qualifiers="ncooked">1 c Uncooked rice</ingredient>
+            <ingredient ingredient="bacon" quantity="4" unit="blsp" qualifiers="">4 tb Drippings, preferably bacon</ingredient>
+            <ingredient ingredient="_wine_vinegar" quantity="0.33" unit="c" qualifiers="">1/3 c Red wine vinegar</ingredient>
+            <ingredient ingredient="peanut_oil" quantity="1" unit="c" qualifiers="">1 c Peanut oil</ingredient>
+            <ingredient ingredient="basil" quantity="2" unit="blsp" qualifiers="chopped,fresh">2 tb Chopped fresh basil</ingredient>
+        </ingredients>
+        <preparation>
+            <step>VINAIGRETTE Hopping John is a traditional Southern New Year's dish</step>
+            <step>This is a modern salad version</step>
+            <step>PLACE BLACK-EYED PEAS in a large pot, cover with water and add 3 cups more water</step>
+            <step>Add fatback or salt pork, slashed in several places, hot red pepper, half the onion, salt and pepper</step>
+            <step>Bring to a boil, cover, reduce the heat and simmer until the peas are tender</step>
+            <step>Add more water as needed</step>
+            <step>Remove the peas</step>
+            <step>Add rice to the pot of water and drippings</step>
+            <step>Bring back to the boil, cover, reduce the heat and simmer until the rice is cooked, about 30 minutes</step>
+            <step>Return the peas to the pot, stir together and cook a few minutes more</step>
+            <step>Drain</step>
+            <step>Remove the fatback and hot pepper</step>
+            <step>Add rest of chopped onion</step>
+            <step>Make a vinaigrette of red wine vinegar, dijon mustard and peanut oil</step>
+            <step>Add salt and pepper</step>
+            <step>Combine with the Hopping John, add chopped fresh basil and bacon, crisply fried and crumbled</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>32</recipeid>
+        <title>wa peas and cheese salad</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="0.5" unit="sp" qualifiers="">1/2 ts Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="0.13" unit="sp" qualifiers="">1/8 ts Pepper</ingredient>
+            <ingredient ingredient="sugar" quantity="0.25" unit="sp" qualifiers="">1/4 ts Sugar</ingredient>
+            <ingredient ingredient="" quantity="2" unit="" qualifiers="hard-boiled,chopped">2 Hard-cooked eggs, chopped</ingredient>
+            <ingredient ingredient="mayonnaise" quantity="0.33" unit="c" qualifiers="">1/3 c To 1/2 cup mayo or salad dr</ingredient>
+            <ingredient ingredient="mustard" quantity="0.5" unit="sp" qualifiers="prepared">1/2 ts Prepared mustard</ingredient>
+            <ingredient ingredient="_pea" quantity="2" unit="c" qualifiers="cooked,shelled">2 c Cooked shelled green peas</ingredient>
+            <ingredient ingredient="cheddar" quantity="1" unit="c" qualifiers="diced,mild">1 c Diced mild Cheddar or Colby cheese</ingredient>
+            <ingredient ingredient="stalk_celery" quantity="1" unit="" qualifiers="medium,thinly sliced">1 md Stalk celery, thinly sliced (about 1/2 cup)</ingredient>
+            <ingredient ingredient="pickle" quantity="3" unit="" qualifiers="weet,chopped">3 Sweet pickles, chopped (abt 1/4 cup)</ingredient>
+            <ingredient ingredient="onion" quantity="2" unit="blsp" qualifiers="nely chopped">2 tb Finely chopped onion</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Mix mayonnaise, salt, mustard, sugar and pepper in 2-1/2 quart bowl</step>
+            <step>Add peas, cheese, celery, pickles and onion; toss</step>
+            <step>Stir in eggs</step>
+            <step>Cover and refrigerate until chilled, at least 1 hour</step>
+            <step>Serve on lettuce leaves, if desired</step>
+            <step>Immediately refrigerate any remaining salad</step>
+            <step>Variation: Substitute 1 can (15 oz) kidney beans, rinsed and drained, for the fresh green peas</step>
+            <step>1 10-oz pkg frozen green peas, thawed and drained, can be substituted for the fresh green peas</step>
+            <step>Nutritional info: 1 serving = 240 calories; 18g fat; 9g protein; 10g carbohydrate; 100mg cholesterol; 500mg sodium</step>
+            <step>NOTE: This is my personal favorite and my Sunday guests asked for the recipe recently</step>
+            <step>So, if you want a sure winner, choose this one!</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>33</recipeid>
+        <title>Jicama slaw</title>
+        <ingredients>
+            <ingredient ingredient="arrowroot" quantity="2" unit="lb" qualifiers="peeled,julienned">2 lb Jicama, peeled and julienned</ingredient>
+            <ingredient ingredient="sweet_red_pepper" quantity="0.5" unit="c" qualifiers="julienned">1/2 c Red bell pepper, julienned</ingredient>
+            <ingredient ingredient="carrot" quantity="2" unit="" qualifiers="julienned">2 Carrots, julienned</ingredient>
+            <ingredient ingredient="_cabbage" quantity="0.5" unit="" qualifiers="mall,shredded">1/2 sm Red cabbage, shredded</ingredient>
+            <ingredient ingredient="jalapeno_pepper" quantity="1" unit="blsp" qualifiers="minced">1 tb Minced jalapeno</ingredient>
+            <ingredient ingredient="citrus_vinaigrette" quantity="0.25" unit="c" qualifiers="">1/4 c Citrus Vinaigrette (recipe follows)</ingredient>
+            <ingredient ingredient="orange_juice" quantity="1" unit="c" qualifiers="h">1 c Fresh orange juice</ingredient>
+            <ingredient ingredient="lemon_juice" quantity="0.5" unit="c" qualifiers="h">1/2 c Fresh lemon juice</ingredient>
+            <ingredient ingredient="lime_juice" quantity="0.5" unit="c" qualifiers="h">1/2 c Fresh lime juice</ingredient>
+            <ingredient ingredient="basil" quantity="2" unit="blsp" qualifiers="">2 tb Basil chiffonnade</ingredient>
+            <ingredient ingredient="_onion" quantity="2" unit="blsp" qualifiers="nely chopped">2 tb Finely chopped red onion</ingredient>
+            <ingredient ingredient="olive_oil" quantity="2" unit="c" qualifiers="">2 c Olive oil</ingredient>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="hly ground">Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="" unit="" qualifiers="hly ground">freshly ground pepper</ingredient>
+        </ingredients>
+        <preparation>
+            <step>CITRUS VINAIGRETTE Combine all ingredients and season to taste with salt and pepper</step>
+            <step>CITRUS VINAIGRETTE: In a blender, combine the orange, lemon and lime juices, basil and onion and blend</step>
+            <step>With the motor running, slowly add the olive oil until emulsified</step>
+            <step>Season to taste with salt and pepper and reserve</step>
+            <step>May be prepared up to 2 days ahead and refrigerated in a squeeze bottle</step>
+            <step>Bring to room temperature before serving</step>
+            <step>Yield: 4 cups</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>34</recipeid>
+        <title>Kohl's pineapple cheese salad</title>
+        <ingredients>
+            <ingredient ingredient="sugar" quantity="0.5" unit="c" qualifiers="">1/2 c Sugar</ingredient>
+            <ingredient ingredient="_yolk" quantity="1" unit="" qualifiers="">1 Egg yolk</ingredient>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="">Salt</ingredient>
+            <ingredient ingredient="flour" quantity="1" unit="blsp" qualifiers="">1 tb Flour</ingredient>
+            <ingredient ingredient="pineapple" quantity="1" unit="can" qualifiers="ge,crushed">1 lg Can crushed pineapple, drain</ingredient>
+            <ingredient ingredient="juice" quantity="1" unit="can" qualifiers="ge,crushed">save the juice</ingredient>
+            <ingredient ingredient="american_cheese" quantity="1" unit="c" qualifiers="cut up">1 c American cheese, cut up</ingredient>
+            <ingredient ingredient="marshmallow" quantity="1" unit="c" qualifiers="or more">1 c Or more marshmallows</ingredient>
+            <ingredient ingredient="pineapple_juice" quantity="0.5" unit="c" qualifiers="">1/2 c Pineapple juice</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Put drained pineapple into a salad bowl</step>
+            <step>Add cheese and marshmallows</step>
+            <step>Toss lightly</step>
+            <step>Make a dressing with the juice, sugar, flour, egg yolk, and salt</step>
+            <step>If dressing is too thick, add water</step>
+            <step>Pour over pineapple mixture and stir gently</step>
+            <step>Chill before serving</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>35</recipeid>
+        <title>Lighter chicken waldorf salad</title>
+        <ingredients>
+            <ingredient ingredient="chicken_breast" quantity="0.75" unit="lb" qualifiers="oasted">3/4 lb Roasted chicken breast (2</ingredient>
+            <ingredient ingredient="anny_smith_apple" quantity="1" unit="" qualifiers="medium,cored">1 md Granny Smith apples, cored</ingredient>
+            <ingredient ingredient="celery" quantity="1" unit="" qualifiers="b,finely minced">1 Rib celery, finely minced</ingredient>
+            <ingredient ingredient="mango" quantity="1" unit="" qualifiers="pe,peeled,diced">1 Ripe mango, peeled and diced</ingredient>
+            <ingredient ingredient="crystallized_ginger" quantity="2" unit="blsp" qualifiers="minced">2 tb Minced, candied ginger</ingredient>
+            <ingredient ingredient="light_mayonnaise" quantity="0.33" unit="c" qualifiers="">1/3 c Light mayonnaise</ingredient>
+            <ingredient ingredient="fat-free_sour_cream" quantity="0.33" unit="c" qualifiers="">1/3 c Nonfat sour cream</ingredient>
+            <ingredient ingredient="lime_juice" quantity="2" unit="blsp" qualifiers="">2 tb Lime juice</ingredient>
+            <ingredient ingredient="mango_chutney" quantity="2" unit="blsp" qualifiers="">2 tb Mango chutney</ingredient>
+            <ingredient ingredient="ainy_mustard" quantity="1" unit="sp" qualifiers="">1 ts Grainy mustard</ingredient>
+            <ingredient ingredient="walnut" quantity="3" unit="blsp" qualifiers="coarsely chopped">3 tb Coarsely chopped walnuts</ingredient>
+            <ingredient ingredient="mint" quantity="2" unit="blsp" qualifiers="minced,fresh">2 tb Minced fresh mint</ingredient>
+        </ingredients>
+        <preparation>
+            <step>1</step>
+            <step>Dice the cooked chicken</step>
+            <step>Combine with the apple, celery, mango and candied ginger</step>
+            <step>In a medium bowl, combine the mayonnaise, sour cream, lime juice, chutney and mustard; mix well</step>
+            <step>Add to the salad, mixing well</step>
+            <step>Cover and refrigerate until ready to serve</step>
+            <step>Just before serving, stir in the chopped walnuts and mint</step>
+            <step>Note: Waldorf salad is typically chock full o' fat; this one has some fat, but less fat than the traditional recipe</step>
+            <step>Candied or sugared ginger can be found in the Asian section of major supermarkets</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>36</recipeid>
+        <title>Macaroni-shrimp salad</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="0.5" unit="sp" qualifiers="">1/2 ts Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="0.13" unit="sp" qualifiers="">1/8 ts Pepper</ingredient>
+            <ingredient ingredient="" quantity="2" unit="" qualifiers="hard-boiled,chopped">2 Hard-cooked eggs, chopped</ingredient>
+            <ingredient ingredient="lettuce" quantity="" unit="" qualifiers="">Lettuce leaves</ingredient>
+            <ingredient ingredient="water" quantity="4.5" unit="c" qualifiers="">4 1/2 c Water</ingredient>
+            <ingredient ingredient="shrimp" quantity="1" unit="lb" qualifiers="npeeled,medium,fresh">1 lb Shrimp, unpeeled medium, fresh</ingredient>
+            <ingredient ingredient="lbow_macaroni" quantity="1.5" unit="c" qualifiers="cooked">1 1/2 c Cooked elbow macaroni</ingredient>
+            <ingredient ingredient="pea" quantity="1" unit="c" qualifiers="ozen,thawed">1 c Frozen peas, thawed</ingredient>
+            <ingredient ingredient="sweet_pepper" quantity="1" unit="" qualifiers="medium,chopped">1 md Bell pepper, chopped</ingredient>
+            <ingredient ingredient="pimento" quantity="0.5" unit="c" qualifiers="chopped">1/2 c Chopped pimento</ingredient>
+            <ingredient ingredient="onion" quantity="1" unit="blsp" qualifiers="chopped">1 tb Chopped onion</ingredient>
+            <ingredient ingredient="sour_cream" quantity="0.25" unit="c" qualifiers="">1/4 c Lite sour cream</ingredient>
+            <ingredient ingredient="mayonnaise" quantity="0.5" unit="c" qualifiers="">1/2 c Lite mayonnaise</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Bring the water to a boil; add the shrimp and cook 3 to 5 minutes</step>
+            <step>Drain well and rinse with cold water</step>
+            <step>Chill</step>
+            <step>Peel and devein shrimp</step>
+            <step>In a large bowl, combine the shrimp and all ingredients except the mayonnaise, salt, and pepper</step>
+            <step>Toss well</step>
+            <step>Whisk together the mayonnaise, salt, and pepper and pour over shrimp mixture, tossing gently</step>
+            <step>Chill</step>
+            <step>Spoon the salad onto lettuce leaves and sprinkle with paprika to serve</step>
+            <step>Add thin slices of avocado or wedges of tomato for a colorful touch</step>
+            <step>Do you have a basket of decorated Easter eggs sitting on your kitchen counter? Why not put these hard-boiled beauties to good use in one of this week's healthy recipes</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>37</recipeid>
+        <title>Marinated bean salad</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="2" unit="sp" qualifiers="">2 ts Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="1" unit="sp" qualifiers="">1 ts Pepper</ingredient>
+            <ingredient ingredient="brown_sugar" quantity="1" unit="c" qualifiers="">1 c Brown sugar</ingredient>
+            <ingredient ingredient="oil" quantity="0.67" unit="c" qualifiers="">2/3 c Oil</ingredient>
+            <ingredient ingredient="vinegar" quantity="1" unit="c" qualifiers="">1 c Vinegar</ingredient>
+            <ingredient ingredient="arlic" quantity="2" unit="" qualifiers="minced">2 Garlic Cloves, minced</ingredient>
+            <ingredient ingredient="bean" quantity="14" unit="oz can" qualifiers="">14 oz Can of Yellow Beans</ingredient>
+            <ingredient ingredient="_bean" quantity="14" unit="oz can" qualifiers="drained">14 oz Can of Green Beans, drained</ingredient>
+            <ingredient ingredient="kidney_bean" quantity="19" unit="oz can" qualifiers="drained">19 oz Can of Kidney Beans, drained</ingredient>
+            <ingredient ingredient="lima_bean" quantity="14" unit="oz can" qualifiers="drained">14 oz Can of Lima Beans,drained</ingredient>
+            <ingredient ingredient="chickpea" quantity="19" unit="oz can" qualifiers="drained">19 oz Can of Chick Peas, drained</ingredient>
+            <ingredient ingredient="sweet_green_pepper" quantity="1" unit="" qualifiers="cut fine">1 Green Pepper, cut fine</ingredient>
+            <ingredient ingredient="cayenne_pepper" quantity="1" unit="" qualifiers="cut fine">1 Red Pepper, cut fine</ingredient>
+            <ingredient ingredient="spanish_onion" quantity="1" unit="" qualifiers="">1 Spanish Onion</ingredient>
+        </ingredients>
+        <preparation>
+            <step>MARINADE SALAD ITEMS Mix the marinade items and shake well</step>
+            <step>Then add the drained beans and the finely cut up ingredients to the marinade</step>
+            <step>Let stand in the fridge for a day or two before using</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>38</recipeid>
+        <title>Marinated white bean and chipotle salad</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="">Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="" unit="" qualifiers="">pepper</ingredient>
+            <ingredient ingredient="jon_mustard" quantity="2" unit="blsp" qualifiers="">2 tb Dijon mustard</ingredient>
+            <ingredient ingredient="oregano" quantity="1" unit="sp" qualifiers="dried">1 ts Dried oregano</ingredient>
+            <ingredient ingredient="white_bean" quantity="1" unit="lb" qualifiers="or whatever">1 lb White beans (Navy, or whatever, I used Canellini)</ingredient>
+            <ingredient ingredient="olive_oil" quantity="0.75" unit="c" qualifiers="">3/4 c Olive oil (I used about 1/2 c)</ingredient>
+            <ingredient ingredient="white_wine_vinegar" quantity="0.25" unit="c" qualifiers="">1/4 c White wine vinegar ( I used about 1/3 c)</ingredient>
+            <ingredient ingredient="chipotle chile" quantity="4" unit="soaked,hot,seeded,julienned" qualifiers="(ahh">4 Chipotle chiles, soaked in hot water for 20 min, seeded (ahh, who needs to do that!)</ingredient>
+            <ingredient ingredient="chinese_noodle" quantity="4" unit="soaked,hot,seeded,julienned" qualifiers="(ahh">chinese_noodle</ingredient>
+            <ingredient ingredient="_onion" quantity="2" unit="" qualifiers="chopped">2 Scallions (green onions), chopped</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Wash beans, heat with 2 qt water, bring to boil and cook until just tender (ca 1 hr)</step>
+            <step>Don't overcook them</step>
+            <step>Turn off, and let cool in the water</step>
+            <step>Drain</step>
+            <step>Whisk the oil, vinegar and mustard together</step>
+            <step>Pour over beans in large bowl</step>
+            <step>Add chiles, scallions and oregano</step>
+            <step>Season to taste with salt and pepper, and mix well</step>
+            <step>Try not to break the beans (it's tough)</step>
+            <step>Marinate refrigerated for at least 24 hours before serving</step>
+            <step>Serves 8-10</step>
+            <step>I lined the bowl with some endive (the Davis farmer's market has a vendor selling it pretty cheaply)</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>39</recipeid>
+        <title>Maui pasta salad</title>
+        <ingredients>
+            <ingredient ingredient="pasta" quantity="3" unit="c" qualifiers="cooked">3 c Cooked spiral pasta</ingredient>
+            <ingredient ingredient="snow_pea" quantity="2" unit="c" qualifiers="">2 c Dole Snow Peas</ingredient>
+            <ingredient ingredient="carrot" quantity="1" unit="c" qualifiers="ced">1 c Sliced Dole Carrots</ingredient>
+            <ingredient ingredient="cucumber" quantity="1" unit="c" qualifiers="">1 c Dole Cucumbers</ingredient>
+            <ingredient ingredient="pineapple_juice" quantity="1" unit="c" qualifiers="">1 c Dole Pineapple Juice</ingredient>
+            <ingredient ingredient="stuffing" quantity="0.5" unit="c" qualifiers="bottled">1/2 c Bottled reduced calorie Italion dressing</ingredient>
+            <ingredient ingredient="cilantro" quantity="0.25" unit="c" qualifiers="chopped">1/4 c Chopped cilantro or parsley</ingredient>
+            <ingredient ingredient="seed" quantity="1" unit="blsp" qualifiers="toasted">1 tb Toasted seseme seeds</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Combine all ingredients in large bowl</step>
+            <step>Chill at least 15 minutes</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>4</recipeid>
+        <title>Auntie's luau potato and macaroni salad (adapted)</title>
+        <ingredients>
+            <ingredient ingredient="potato" quantity="1" unit="lb" qualifiers="">1 lb Salad potatoes, (up to 2)</ingredient>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="to taste">Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="" unit="" qualifiers="to taste">pepper, to taste</ingredient>
+            <ingredient ingredient="macaroni" quantity="6" unit="oz" qualifiers="">6 oz Macaroni, salad</ingredient>
+            <ingredient ingredient="" quantity="2" unit="" qualifiers="hard-boiled,chopped">2 Hard-boiled eggs, chopped</ingredient>
+            <ingredient ingredient="celery" quantity="0.67" unit="c" qualifiers="nely chopped">2/3 c Celery, chopped fine</ingredient>
+            <ingredient ingredient="carrot" quantity="0.33" unit="c" qualifiers="hredded">1/3 c Carrots, shredded</ingredient>
+            <ingredient ingredient="onion" quantity="0.5" unit="" qualifiers="mall,finely chopped">1/2 sm Maui onion, chopped fine</ingredient>
+            <ingredient ingredient="pea" quantity="0.5" unit="oz" qualifiers="ozen">1/2 pk Frozen peas, 10 oz pkg</ingredient>
+            <ingredient ingredient="oil" quantity="0.5" unit="can" qualifiers="drained">1/2 cn Tuna in oil, drained</ingredient>
+            <ingredient ingredient="mayonnaise" quantity="1" unit="c" qualifiers="">1 c Best Foods Mayonnaise</ingredient>
+            <ingredient ingredient="milk" quantity="3" unit="blsp" qualifiers="">3 tb Milk</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Cook potatoes until tender</step>
+            <step>Cool</step>
+            <step>Peel and dice</step>
+            <step>Cook macaroni per package directions</step>
+            <step>Drain and cool</step>
+            <step>In a very large bowl combine all the ingredients and mix gently</step>
+            <step>Add additional mayonnaise, if necessary</step>
+            <step>Refrigerate for several hours</step>
+            <step>Garnish with parsley, additional hard boiled eggs, paprika, slivers of green pepper, or whatever</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>40</recipeid>
+        <title>Molded waldorf salad</title>
+        <ingredients>
+            <ingredient ingredient="water" quantity="1" unit="c" qualifiers="boiling">1 c Boiling water</ingredient>
+            <ingredient ingredient="lemon_flavored_gelatin" quantity="1" unit="pk" qualifiers="">1 pk (3 oz) lemon flavored gelatin</ingredient>
+            <ingredient ingredient="mandarin_orange" quantity="1" unit="can" qualifiers="">1 cn (11 oz) mandarin orange segments</ingredient>
+            <ingredient ingredient="pineapple" quantity="1" unit="can" qualifiers="">1 cn (8 1/2 oz) pineapple tidbits</ingredient>
+            <ingredient ingredient="apple" quantity="1" unit="" qualifiers="medium,diced">1 md Apple, diced</ingredient>
+            <ingredient ingredient="banana" quantity="1" unit="" qualifiers="medium,sliced">1 md Banana, sliced</ingredient>
+            <ingredient ingredient="ut" quantity="0.25" unit="c" qualifiers="coarsely chopped">1/4 c Nuts, coarsely chopped</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Workbasket Recipes: This issue (December 72) has so many intriguing recipes</step>
+            <step>Dissolve gelatin in boiling water</step>
+            <step>Stir in orange segments (with syrup), pineapple tidbits (with syrup), apple, banana and nuts</step>
+            <step>Pour into 5 cup mold</step>
+            <step>Chill until firm</step>
+            <step>Serve with your favorite fruit salad dressing</step>
+            <step>Makes 6 to 8 servings</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>41</recipeid>
+        <title>Moroccan carrot salad</title>
+        <ingredients>
+            <ingredient ingredient="lemon_juice" quantity="2" unit="blsp" qualifiers="">2 tb Lemon juice</ingredient>
+            <ingredient ingredient="omato_paste" quantity="1" unit="blsp" qualifiers="">1 tb Tomato paste</ingredient>
+            <ingredient ingredient="paprika" quantity="0.5" unit="sp" qualifiers="">1/2 ts Paprika</ingredient>
+            <ingredient ingredient="cumin" quantity="1" unit="sp" qualifiers="ground">1 ts Ground cumin</ingredient>
+            <ingredient ingredient="arlic" quantity="1" unit="" qualifiers="nely minced">1 Clove garlic, finely minced</ingredient>
+            <ingredient ingredient="parsley" quantity="0.25" unit="c" qualifiers="chopped,fresh">1/4 c Chopped fresh parsley ,</ingredient>
+            <ingredient ingredient="cilantro" quantity="2" unit="blsp" qualifiers="chopped,fresh">2 tb Chopped fresh cilantro, (coriander)</ingredient>
+            <ingredient ingredient="peanut_oil" quantity="1" unit="blsp" qualifiers="">1 tb Peanut oil</ingredient>
+            <ingredient ingredient="cayenne_pepper" quantity="1" unit="pinch" qualifiers="">1 pn Cayenne</ingredient>
+            <ingredient ingredient="carrot" quantity="1" unit="lb" qualifiers="hredded">1 lb Carrots, shredded</ingredient>
+        </ingredients>
+        <preparation>
+            <step>combine the parsley cilantro, and garlic and process until finely chopped</step>
+            <step>Add the lemon juice, peanut oil, tomato paste, and seasonings</step>
+            <step>Process just until all the ingredients are well combined</step>
+            <step>Place the mixture in a large - or ceramic bowl, top with the carrots, and toss until the carrots are coated</step>
+            <step>Cover the bowl and refrigerate for 4 to 6 hours or overnight Adjust the seasonings and serve chilled or at room tempera-ture</step>
+            <step>COOK Note: Never store carrots with apples in the refrigerator</step>
+            <step>Apples release a gas that gives carrots a bitter taste VARIATION</step>
+        </preparation>
+        <diet>
+            
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>42</recipeid>
+        <title>Nappa cabbage salad</title>
+        <ingredients>
+            <ingredient ingredient="margarine" quantity="6" unit="blsp" qualifiers="">6 tb Margarine</ingredient>
+            <ingredient ingredient="oil" quantity="1" unit="c" qualifiers="">1 c Oil</ingredient>
+            <ingredient ingredient="almond" quantity="0.75" unit="c" qualifiers="ced">3/4 c Almonds, sliced</ingredient>
+            <ingredient ingredient="oodle" quantity="2" unit="pk" qualifiers="broken">2 pk Ichiban Noodles (beef flavour), broken up</ingredient>
+            <ingredient ingredient="anulated_sugar" quantity="0.5" unit="c" qualifiers="">1/2 c White sugar</ingredient>
+            <ingredient ingredient="vinegar" quantity="0.5" unit="c" qualifiers="">1/2 c Vinegar</ingredient>
+            <ingredient ingredient="salt;1/2" quantity="" unit="" qualifiers="(i omit this">1/2 ts Salt (I omit this, but the choice is yours)</ingredient>
+            <ingredient ingredient="beef" quantity="2" unit="pk" qualifiers="">2 Beef flavour packets from the noodles</ingredient>
+            <ingredient ingredient="apa_cabbage" quantity="1" unit="" qualifiers="">1 Head suey choy or nappa cabbage</ingredient>
+            <ingredient ingredient="_onion" quantity="1" unit="bn" qualifiers="">1 bn Green onions</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Chop the cabbage fine and mix the onion, set aside</step>
+            <step>Saute the almonds and broken up noodles with the margarine in a fry pan</step>
+            <step>Cool</step>
+            <step>Combine the next 6 ingredients and refrigerate</step>
+            <step>Pour dressing over salad just before serving</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>43</recipeid>
+        <title>Nasturtium and grape salad</title>
+        <ingredients>
+            <ingredient ingredient="lettuce" quantity="1" unit="" qualifiers="">1 Head red lettuce</ingredient>
+            <ingredient ingredient="ape" quantity="1" unit="c" qualifiers="dless">1 c Seedless grapes</ingredient>
+            <ingredient ingredient="asturtium" quantity="8" unit="" qualifiers="">8 Nasturtium leaves</ingredient>
+            <ingredient ingredient="salad_oil" quantity="3" unit="blsp" qualifiers="">3 tb Salad oil</ingredient>
+            <ingredient ingredient="white_wine_vinegar" quantity="1" unit="blsp" qualifiers="">1 tb White wine vinegar</ingredient>
+            <ingredient ingredient="jon_mustard" quantity="1.5" unit="sp" qualifiers="">1 1/2 ts Dijon mustard</ingredient>
+            <ingredient ingredient="black_pepper" quantity="1" unit="pinch" qualifiers="">1 pn Black pepper</ingredient>
+        </ingredients>
+        <preparation>
+            <step>TANGY VIAIGRETTE On each of four plates, arrange 4 or 5 red lettuce leaves, 1/4 cup of grapes, 2 nasturtium leaves and 4 nasturtium blossoms</step>
+            <step>VINAIGRETTE: Whisk together all the ingredients in a small bowl</step>
+            <step>Drizzle the dressing equally over each salad</step>
+            <step>Serve immediately</step>
+        </preparation>
+        <diet>
+            
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>44</recipeid>
+        <title>New potato salad with dried tomatoes</title>
+        <ingredients>
+            <ingredient ingredient="olive_oil" quantity="2" unit="blsp" qualifiers="">2 tb Olive oil</ingredient>
+            <ingredient ingredient="salt" quantity="1.5" unit="sp" qualifiers="">1 1/2 ts Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="0.25" unit="sp" qualifiers="">1/4 ts Pepper</ingredient>
+            <ingredient ingredient="w_potato" quantity="3" unit="lb" qualifiers="mall">3 lb Small new potatoes, scrubbed</ingredient>
+            <ingredient ingredient="sun-dried_tomato" quantity="1" unit="oz" qualifiers="half">1 oz Dried tomato halves</ingredient>
+            <ingredient ingredient="water" quantity="0.33" unit="c" qualifiers="boiling">1/3 c Boiling water</ingredient>
+            <ingredient ingredient="celery" quantity="1.5" unit="c" qualifiers="ced">1 1/2 c Sliced celery</ingredient>
+            <ingredient ingredient="_onion" quantity="4" unit="" qualifiers="ced">4 Green onions, sliced with</ingredient>
+            <ingredient ingredient="ll" quantity="0.25" unit="c" qualifiers="nipped,fresh">1/4 c Snipped fresh dill "OR"</ingredient>
+            <ingredient ingredient="low-fat_sour_cream" quantity="0.33" unit="c" qualifiers="">1/3 c Reduced fat sour cream</ingredient>
+            <ingredient ingredient="low-fat_plain_yogurt" quantity="0.33" unit="c" qualifiers="">1/3 c Lowfat plain yogurt</ingredient>
+            <ingredient ingredient="horseradish" quantity="1" unit="blsp" qualifiers="prepared">1 tb Prepared white horseradish</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Place potatoes in a large kettle with enough water to cover</step>
+            <step>Add 1/2 tsp</step>
+            <step>of the salt</step>
+            <step>Partially cover and bring to a boil over high heat</step>
+            <step>Boil gently for 15 minutes, or until potatoes are tender but still firm</step>
+            <step>Meanwhile, place dried tomatoes in a small bowl</step>
+            <step>Cover with boiling water</step>
+            <step>Let stand 10 minutes</step>
+            <step>Drain potatoes well; return to pot</step>
+            <step>Sprinkle olive oil and 1/2 tsp</step>
+            <step>of the salt over potatoes, tossing lightly to coat</step>
+            <step>Cut dried tomatoes into thin slivers and add to potatoes</step>
+            <step>Stir in celery, celery leaves, green onions, ad dill</step>
+            <step>Spoon into large bowl; cover and refrigerate at this point if preparting ahead</step>
+            <step>Combine sour cream, yogurt, horseradish, pepper and remaining 1/2 tsp</step>
+            <step>salt in a small bowl</step>
+            <step>Pour over potato mixture and toss gently to coat</step>
+            <step>Cover and refrigerate up to 24 hours</step>
+            <step>Makes 8 servings</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>45</recipeid>
+        <title>Onion and green bean salad</title>
+        <ingredients>
+            <ingredient ingredient="sugar" quantity="1" unit="blsp" qualifiers="">1 tb Sugar</ingredient>
+            <ingredient ingredient="salt" quantity="0.25" unit="sp" qualifiers="">1/4 ts Salt</ingredient>
+            <ingredient ingredient="white_vinegar" quantity="2" unit="blsp" qualifiers="">2 tb White vinegar</ingredient>
+            <ingredient ingredient="onion" quantity="2" unit="" qualifiers="ced">2 Onions, sliced into rings</ingredient>
+            <ingredient ingredient="_bean" quantity="2" unit="pk" qualifiers="ozen">2 pk (10-oz) frozen green beans</ingredient>
+            <ingredient ingredient="bacon" quantity="5" unit="" qualifiers="ce">5 sl Bacon</ingredient>
+            <ingredient ingredient="oil" quantity="0.33" unit="c" qualifiers="">1/3 c Oil</ingredient>
+            <ingredient ingredient="cayenne_pepper" quantity="1" unit="ds" qualifiers="">1 ds Cayenne pepper</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Place onion rings in bowl; wprinkle with sugar</step>
+            <step>Cook beans as directed; drain</step>
+            <step>Cool thoroughly; toss with onion rings</step>
+            <step>Chill at least 1 hour, stirring occasionally</step>
+            <step>Fry bacon, crumble and reserve</step>
+            <step>At serving time, combine oil, vinegar, salt and pepper</step>
+            <step>Stir until mixed</step>
+            <step>Pour over bean-onion mixture; add bacon</step>
+            <step>Toss gently</step>
+            <step>Makes 6 servings, 180 calories each</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>46</recipeid>
+        <title>Pan broiled flank steak salsa salad</title>
+        <ingredients>
+            <ingredient ingredient="flank_steak" quantity="10" unit="oz" qualifiers="">10 oz Flank steak</ingredient>
+            <ingredient ingredient="kosher_salt" quantity="" unit="" qualifiers="">Kosher salt</ingredient>
+            <ingredient ingredient="salsa" quantity="" unit="" qualifiers="">Salsa, commercial or homemade</ingredient>
+            <ingredient ingredient="lime_juice" quantity="" unit="" qualifiers="h">Fresh lime juice</ingredient>
+            <ingredient ingredient="vinaigrette" quantity="" unit="" qualifiers="mixed">Lovely mixed greens lightly dressed with vinaigrette</ingredient>
+            <ingredient ingredient="cilantro" quantity="" unit="" qualifiers="chopped">Chopped cilantro</ingredient>
+            <ingredient ingredient="sweet_red_pepper" quantity="" unit="" qualifiers="cut,for garnish">Some red bell pepper cut into 1/4 inch dice for garnish</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Heat a black iron skillet until very hot; add some Kosher salt</step>
+            <step>Add the flank steak and saute, without stirring for 2 to 3 minutes</step>
+            <step>Turn over and pan broil for another 4 minutes or until rare</step>
+            <step>Cut the steak, on the bias, into very thin strips, across the grain and toss, while still warm with some salsa and fresh lime juice; season with salt</step>
+            <step>Make a wreath of the greens on a plate, mound the salsa steak in the center and garnish with chopped red pepper and cilantro, if you wish</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>48</recipeid>
+        <title>Potato salad 2</title>
+        <ingredients>
+            <ingredient ingredient="" quantity="2" unit="" qualifiers="hard-boiled,chopped">2 Hard-boiled eggs, chopped</ingredient>
+            <ingredient ingredient="mayonnaise" quantity="1" unit="c" qualifiers="">1 c Mayonnaise</ingredient>
+            <ingredient ingredient="_onion" quantity="1" unit="bn" qualifiers="chopped">1 bn Scallions, chopped</ingredient>
+            <ingredient ingredient="-skinned_potato" quantity="3.5" unit="lb" qualifiers="boiled,sliced">3 1/2 lb Red-skinned potatoes, boiled and sliced</ingredient>
+            <ingredient ingredient="juice" quantity="0.5" unit="c" qualifiers="">1/2 c Pickle juice</ingredient>
+            <ingredient ingredient="allspice" quantity="1" unit="jar" qualifiers="drained">1 Jar pimientos, drained</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Mix all ingredients</step>
+            <step>Serve</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>49</recipeid>
+        <title>Salad bar diet delight</title>
+        <ingredients>
+            <ingredient ingredient="pepper" quantity="" unit="" qualifiers="">Pepper</ingredient>
+            <ingredient ingredient="kosher_salt" quantity="" unit="" qualifiers="">Kosher salt</ingredient>
+            <ingredient ingredient="cube_steak" quantity="1" unit="pound" qualifiers="">1 1.2 pound swordfish, steak</ingredient>
+            <ingredient ingredient="vegetable" quantity="6" unit="oz" qualifiers="">6 oz Assorted vegetables</ingredient>
+        </ingredients>
+        <preparation>
+            <step>1</step>
+            <step>Center fish on a dinner plate</step>
+            <step>Arrange slower-cooking vegetable around fish</step>
+            <step>Scatter remaining, quicker cooking vegetables over all</step>
+            <step>Cover all with plastic wrap</step>
+            <step>Cook at 100% for 4 minutes</step>
+            <step>Remove from oven</step>
+            <step>Uncover and sprinkle with salt and papper to tast</step>
+            <step>Serve hot</step>
+            <step>What could be simpler</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>5</recipeid>
+        <title>Bing cherry salad 2</title>
+        <ingredients>
+            <ingredient ingredient="water" quantity="0.5" unit="c" qualifiers="cold">1/2 c Cold water</ingredient>
+            <ingredient ingredient="bing_cherries" quantity="1" unit="can" qualifiers="pitted,drained">1 cn (17-oz) pitted Bing cherries, drained</ingredient>
+            <ingredient ingredient="latin" quantity="3" unit="pk" qualifiers="">3 pk (3-oz) cherry-flavored gelatin</ingredient>
+            <ingredient ingredient="unflavored_gelatin" quantity="1" unit="" qualifiers="">1 Envelope unflavored gelatin</ingredient>
+            <ingredient ingredient="cream_cheese" quantity="3" unit="pk" qualifiers="oftened">3 pk (3-oz) cream cheese, softened</ingredient>
+            <ingredient ingredient="pineapple" quantity="1" unit="can" qualifiers="crushed">1 cn (20-oz) crushed pineapple</ingredient>
+            <ingredient ingredient="ut" quantity="" unit="" qualifiers="chopped">Chopped nuts (optional)</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Heat cherry juice and dissolve cherry gelatin in this</step>
+            <step>Add unflavored gelatin to 1/2 cup cold water; add to hot gelatin mixture and stir until dissolved</step>
+            <step>Mash cream cheese and add to warm mixture</step>
+            <step>Add 1 cup each of cherries and undrained pineapple</step>
+            <step>Chill slightly</step>
+            <step>Add remainder of cherries and pineapple</step>
+            <step>Add cola beverage, and nuts, if desired</step>
+            <step>Chill in refrigerator until firm</step>
+            <step>Yield: 6 to 8 servings</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>50</recipeid>
+        <title>Sesame spinach salad</title>
+        <ingredients>
+            <ingredient ingredient="water" quantity="2" unit="qt" qualifiers="">2 qt Water</ingredient>
+            <ingredient ingredient="honey" quantity="1" unit="blsp" qualifiers="">1 tb Honey</ingredient>
+            <ingredient ingredient="low_sodium_soy_sauce" quantity="2" unit="blsp" qualifiers="">2 tb Low-sodium soy sauce</ingredient>
+            <ingredient ingredient="sesame_seed" quantity="1" unit="blsp" qualifiers="toasted,crushed">1 tb Sesame seeds, toasted and crushed</ingredient>
+            <ingredient ingredient="urnip_greens" quantity="0.5" unit="lb" qualifiers="h">1/2 lb Fresh turnip greens</ingredient>
+            <ingredient ingredient="spinach" quantity="1" unit="pk" qualifiers="h">1 pk (10-oz) fresh spinach</ingredient>
+        </ingredients>
+        <preparation>
+            <step>1</step>
+            <step>Combine soy sauce, sesame seeds and honey in a small bowl and stir until well-blended</step>
+            <step>Remove stems from turnip greens and spinach</step>
+            <step>Bring 2 quarts water to a boil in an 8-quart stockpot or Dutch oven</step>
+            <step>Add turnip greens; cover and cook 1 minute</step>
+            <step>Add spinach and cook until wilted</step>
+            <step>Drain and rinse greens mixture under cold water; drain again and pat dry</step>
+            <step>Toss with sesame dressing</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>51</recipeid>
+        <title>Sky-high rice salad</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="0.75" unit="sp" qualifiers="">3/4 ts Salt</ingredient>
+            <ingredient ingredient="curry_powder" quantity="0.25" unit="sp" qualifiers="">1/4 ts Curry powder</ingredient>
+            <ingredient ingredient="onion" quantity="3" unit="blsp" qualifiers="minced">3 tb Onion, minced</ingredient>
+            <ingredient ingredient="ce" quantity="3" unit="c" qualifiers="cooked,cold">3 c Rice, regular, cooked, cold</ingredient>
+            <ingredient ingredient="corn" quantity="1" unit="c" qualifiers="whole,cooked,cold">1 c Corn, whole kernel, cooked, cold</ingredient>
+            <ingredient ingredient="celery" quantity="1" unit="c" qualifiers="thinly sliced">1 c Celery, thinly sliced</ingredient>
+            <ingredient ingredient="pepper" quantity="0.25" unit="c" qualifiers="chopped">1/4 c Pepper, green, chopped</ingredient>
+            <ingredient ingredient="ll" quantity="0.25" unit="c" qualifiers="chopped">1/4 c Pickle, dill, chopped</ingredient>
+            <ingredient ingredient="black_pepper" quantity="" unit="" qualifiers="to taste">Pepper, black, to taste</ingredient>
+            <ingredient ingredient="chutney" quantity="2" unit="blsp" qualifiers="">2 tb Chutney</ingredient>
+            <ingredient ingredient="stuffing" quantity="0.33" unit="c" qualifiers="">1/3 c Dressing, French</ingredient>
+            <ingredient ingredient="chip" quantity="" unit="" qualifiers="">Crisp salad greens</ingredient>
+            <ingredient ingredient="" quantity="2" unit="" qualifiers="hard-boiled,sliced">2 Eggs, hard-cooked, sliced</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Combine first 9 ingredients</step>
+            <step>Stir curry powder and chutney into French dressing; pour over salad</step>
+            <step>Toss lightly, and chill until serving time</step>
+            <step>Mound on crisp salad greens</step>
+            <step>Garnish with slices of hard-cooked eggs</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>52</recipeid>
+        <title>South of the border potato salad</title>
+        <ingredients>
+            <ingredient ingredient="sugar" quantity="1" unit="blsp" qualifiers="">1 tb Sugar</ingredient>
+            <ingredient ingredient="salad_oil" quantity="0.33" unit="c" qualifiers="">1/3 c Salad oil</ingredient>
+            <ingredient ingredient="vinegar" quantity="0.25" unit="c" qualifiers="">1/4 c Vinegar</ingredient>
+            <ingredient ingredient="seasoned_salt" quantity="1" unit="sp" qualifiers="">1 ts Seasoned salt</ingredient>
+            <ingredient ingredient="potato" quantity="4" unit="" qualifiers="medium">4 md Potato</ingredient>
+            <ingredient ingredient="chili_powder" quantity="1.5" unit="sp" qualifiers="">1 1/2 ts Chili powder</ingredient>
+            <ingredient ingredient="hot_pepper_sauce" quantity="1" unit="ds" qualifiers="bottled">1 ds Bottled hot sauce, see note</ingredient>
+            <ingredient ingredient="onion" quantity="1" unit="" qualifiers="mall,thinly sliced">1 sm Onion, thinly sliced</ingredient>
+            <ingredient ingredient="corn" quantity="1" unit="oz" qualifiers="whole,drained">1 8 oz whole corn, drained</ingredient>
+            <ingredient ingredient="carrot" quantity="0.5" unit="c" qualifiers="hredded">1/2 c Carrot, shredded</ingredient>
+            <ingredient ingredient="sweet_green_pepper" quantity="0.5" unit="c" qualifiers="chopped">1/2 c Green pepper, chopped</ingredient>
+            <ingredient ingredient="black_olive" quantity="0.5" unit="c" qualifiers="ced">1/2 c Black olives, sliced</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Cook potatoes in boiling salted water until tender, about 35 to 40 minutes</step>
+            <step>Drain, pare, and cube</step>
+            <step>Combine oil, vinegar, sugar, chili powder, seasoned salt, and hot pepper sauce</step>
+            <step>Add to warm potatoes, toss gently to coat</step>
+            <step>Cover and chill one hour</step>
+            <step>Fold in the remaining ingredients</step>
+            <step>Garnish with additional halved ripe olive, if desired</step>
+            <step>Serve chilled</step>
+            <step>Makes 6 to 8 servings</step>
+        </preparation>
+        <diet>
+            
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>53</recipeid>
+        <title>Spinach salad with kalamata olives tomatoes and feta</title>
+        <ingredients>
+            <ingredient ingredient="spinach" quantity="10" unit="oz" qualifiers="thick">10 oz Spinach, 1 Inch Thick</ingredient>
+            <ingredient ingredient="cherry_tomato" quantity="1" unit="pt" qualifiers="">1 pt Cherry Tomatoes</ingredient>
+            <ingredient ingredient="_wine_vinegar" quantity="0.5" unit="c" qualifiers="">1/2 c Red Wine Vinegar Salad Dressing</ingredient>
+            <ingredient ingredient="feta" quantity="4" unit="oz" qualifiers="crumbled">4 oz Feta Cheese, Crumbled</ingredient>
+            <ingredient ingredient="kalamata_olive" quantity="1" unit="c" qualifiers="pitted">1 c Kalamata Olives, Pitted</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Place the spinach in a salad bowl</step>
+            <step>Rinse the cherry tomatoes, cut them in half and add them to the salad bowl</step>
+            <step>Pour the dressing over the spinach and toss gently to coat</step>
+            <step>Sprinkle the feta and olives over the salad and serve</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>55</recipeid>
+        <title>Sprouting seeds with carrot salad and cottage cheese</title>
+        <ingredients>
+            <ingredient ingredient="hazelnut_oil" quantity="1" unit="sp" qualifiers="">1 ts Sesame or hazelnut oil.</ingredient>
+            <ingredient ingredient="sesame_seed" quantity="1" unit="sp" qualifiers="">1 ts Poppy or sesame seeds.</ingredient>
+            <ingredient ingredient="vinegar" quantity="" unit="" qualifiers="">Few drops of vinegar.</ingredient>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="">Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="" unit="" qualifiers="">pepper.</ingredient>
+            <ingredient ingredient="carrot" quantity="1" unit="" qualifiers="ge,grated">1 lg Carrot grated.</ingredient>
+            <ingredient ingredient="olden_raisin" quantity="" unit="oz" qualifiers="half">Half an ounce 15 g sultanas</ingredient>
+            <ingredient ingredient="aisin" quantity="" unit="" qualifiers="">Or raisins.</ingredient>
+            <ingredient ingredient="mustard" quantity="" unit="box" qualifiers="">Quarter of box of mustard</ingredient>
+            <ingredient ingredient="cress" quantity="" unit="" qualifiers="">And cress.</ingredient>
+            <ingredient ingredient="mung_bean_sprout" quantity="1" unit="oz" qualifiers="">1 oz 30 g bean sprouts.</ingredient>
+            <ingredient ingredient="seed" quantity="1" unit="oz" qualifiers="">1 oz 30 g sprouting alfalfa seeds</ingredient>
+            <ingredient ingredient="celery" quantity="1" unit="" qualifiers="tick,chopped">1 Stick celery chopped.</ingredient>
+            <ingredient ingredient="lemon_juice" quantity="" unit="" qualifiers="">Few drops of lemon juice.</ingredient>
+            <ingredient ingredient="cottage_cheese" quantity="2" unit="oz" qualifiers="">2 oz 60 g cottage cheese.</ingredient>
+        </ingredients>
+        <preparation>
+            <step>1</step>
+            <step>Mix together the oil, poppy or sesame seeds and vinegar</step>
+            <step>Season with salt and pepper and add the grated carrot and sultanas or raisins tossing well</step>
+            <step>Mix together the mustard and cress, bean sprouts alfalfa seeds and celery, sprinkling with a little lemon juice and some salt and pepper to taste</step>
+            <step>arrange the carrot salad and the sprouting seed mixture on a serving plate</step>
+            <step>Add the cottage cheese and serve garnished with celery leaves</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>56</recipeid>
+        <title>Summer fruit bowl</title>
+        <ingredients>
+            <ingredient ingredient="water" quantity="2" unit="c" qualifiers="">2 c Water</ingredient>
+            <ingredient ingredient="sugar" quantity="1.5" unit="c" qualifiers="">1 1/2 c Sugar</ingredient>
+            <ingredient ingredient="lime_juice" quantity="3" unit="blsp" qualifiers="">3 tb Lime juice</ingredient>
+            <ingredient ingredient="mint" quantity="0.75" unit="c" qualifiers=",minced">3/4 c Mint leaves,minced</ingredient>
+            <ingredient ingredient="watermelon" quantity="20" unit="lb" qualifiers="">20 lb Watermelon</ingredient>
+            <ingredient ingredient="cantaloupe" quantity="1" unit="" qualifiers="mall">1 Cantaloupe,small</ingredient>
+            <ingredient ingredient="plum" quantity="6" unit="" qualifiers="ge">6 Plums,large</ingredient>
+            <ingredient ingredient="ctarine" quantity="4" unit="" qualifiers="ge">4 Nectarines,large</ingredient>
+            <ingredient ingredient="ape" quantity="1" unit="lb" qualifiers="dless">1 lb Grapes,seedless green</ingredient>
+        </ingredients>
+        <preparation>
+            <step>1</step>
+            <step>In 2-quart saucepan over medium heat, cook water, sugar, and lime juice 15 minutes or until mixture becomes a light syrup</step>
+            <step>Stir in mint leaves; cover and refrigerate until well chilled</step>
+            <step>Cut watermelon into bited-sizepieces; discard seeds</step>
+            <step>Cut cantaloupe into bite-sized pieces; cut unpeeled plums and nectarines into wedges</step>
+            <step>Combine cut-up fruits with grapes and arrange in very large bowl</step>
+            <step>Pour chilled syrup through strainer over fruit; gently toss to mix well</step>
+            <step>Cover and refrigerate to blend flavors, stirring mixture occasionally</step>
+            <step>Miscellaneous recipes from the collection of Mike Orchekowski</step>
+        </preparation>
+        <diet>
+            
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>57</recipeid>
+        <title>Tea-smoked chicken salad</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="0.5" unit="sp" qualifiers="">1/2 ts Salt</ingredient>
+            <ingredient ingredient="lemon_juice" quantity="2" unit="blsp" qualifiers="h">2 tb Fresh lemon juice</ingredient>
+            <ingredient ingredient="" quantity="0.13" unit="sp" qualifiers="">1/8 ts Ground ginger</ingredient>
+            <ingredient ingredient="peanut_oil" quantity="1" unit="blsp" qualifiers="">1 tb Peanut oil</ingredient>
+            <ingredient ingredient="szechwan_peppercorn" quantity="0.25" unit="sp" qualifiers="crushed">1/4 ts Szechuan peppercorns, crushed</ingredient>
+            <ingredient ingredient="anulated_sugar" quantity="0.13" unit="sp" qualifiers="">1/8 ts Granulated sugar</ingredient>
+            <ingredient ingredient="chicken_thigh" quantity="10" unit="oz" qualifiers="kinless,boneless">10 oz Skinless boneless chicken thighs</ingredient>
+            <ingredient ingredient="_onion" quantity="1" unit="" qualifiers="medium,quartered">1 md Scallion, quartered</ingredient>
+            <ingredient ingredient="arlic" quantity="2" unit="cl" qualifiers="crushed">2 cl Garlic, crushed</ingredient>
+            <ingredient ingredient="long-grain_rice" quantity="0.5" unit="c" qualifiers="ncooked">1/2 c Uncooked, regular long-grain rice</ingredient>
+            <ingredient ingredient="ark_brown_sugar" quantity="2" unit="blsp" qualifiers="mly packed">2 tb Firmly packed light or dark brown sugar</ingredient>
+            <ingredient ingredient="a" quantity="1.5" unit="sp" qualifiers="">1 tb Plus 1 1/2 tsp. Lapsang Souchong tea leaves</ingredient>
+            <ingredient ingredient="cinnamon_stick" quantity="0.5" unit="" qualifiers="">1/2 Cinnamon stick</ingredient>
+            <ingredient ingredient="orange" quantity="3.5" unit="" qualifiers="">3 3 1/2" x 1/2" strips orange</ingredient>
+            <ingredient ingredient="lettuce" quantity="4" unit="c" qualifiers="torn,leaf">4 c Torn lettuce leaves</ingredient>
+            <ingredient ingredient="water_chestnut" quantity="" unit="" qualifiers="">Water chestnuts</ingredient>
+            <ingredient ingredient="low-salt_chicken_broth" quantity="3" unit="blsp" qualifiers="">3 tb Low-sodium chicken broth</ingredient>
+            <ingredient ingredient="papaya" quantity="1" unit="" qualifiers="medium,pared,seeded,diced">1 md Papaya, pared, seeded and diced</ingredient>
+        </ingredients>
+        <preparation>
+            <step>In small bowl, combine salt, peppercorns, granulated sugar and ground ginger; rub into chicken</step>
+            <step>Place scallion, ginger root and garlic on top of chicken; refrigerate, covered, 1 hour</step>
+            <step>Set a steamer rack or round baking rack into large saucepan; add 1-2 inches water, being careful that water does not reach top of rack</step>
+            <step>Spray large heat resistant plate with nonstick cooking spray (plate should fit into saucepan)</step>
+            <step>Bring water in saucepan to a boil; reduce heat</step>
+            <step>Place chicken with scallion, ginger root and garlic, along with any accumulated juices, on prepared plate; set plate on rack</step>
+            <step>Cook chicken over simmering water, covered, 5 minutes, until almost cooked through</step>
+            <step>Remove chicken and rack from saucepan; discard liquid in saucepan</step>
+            <step>Spray same rack with nonstick cooking spray; transfer chicken to rack, discarding scallion, ginger root and garlic</step>
+            <step>Line same saucepan with foil</step>
+            <step>Sprinkle foil with rice, brown sugar and tea leaves; add cinnamon stick and orange zest</step>
+            <step>Place saucepan over medium heat; cook until mixture begins to smoke</step>
+            <step>Set prepared rack into saucepan; cook, covered, 12 minutes, until chicken is cooked through</step>
+            <step>Remove chicken from saucepan; set aside to cool</step>
+            <step>While chicken is cooling, in large bowl, combine lettuce, waterchestnuts, broth, lemon juice and oil, tossing well to coat thoroughly; divide evenly among 4 plates</step>
+            <step>Slice cooled chicken; arrange 1/4 of the chicken and papaya on each portion of salad</step>
+            <step>*Szechuan peppercorns and Lapsang Souchong tea leaves can be purchased in Asian food stores or the Asian food sectin of some supermarkets</step>
+            <step>If loose tea leaves are not available, use three tea bags and open to release leaves, discarding bag</step>
+            <step>**The zest of the orange is the peel without any of the pith (white membrane)</step>
+            <step>To remove zest from orange, use a zester or vegetable peeler; wrap orange in plastic wrap and refrigerate for use at another time</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>58</recipeid>
+        <title>Thai pasta and seafood salad</title>
+        <ingredients>
+            <ingredient ingredient="arlic" quantity="1" unit="sp" qualifiers="minced">1 ts Minced garlic</ingredient>
+            <ingredient ingredient="soy_sauce" quantity="2" unit="blsp" qualifiers="">2 tb Soy sauce</ingredient>
+            <ingredient ingredient="cider_vinegar" quantity="0.33" unit="c" qualifiers="">1/3 c Cider vinegar</ingredient>
+            <ingredient ingredient="" quantity="1" unit="blsp" qualifiers="grated">1 tb Grated fresh ginger root</ingredient>
+            <ingredient ingredient="burro_banana" quantity="0.25" unit="c" qualifiers="">1/4 c Smooth or chunky peanut butter</ingredient>
+            <ingredient ingredient="water" quantity="0.25" unit="c" qualifiers="hot">1/4 c Hot water</ingredient>
+            <ingredient ingredient="scallop" quantity="7" unit="c" qualifiers="chilled">7 c Chilled cooked shrimp</ingredient>
+            <ingredient ingredient="shrimp_meat" quantity="7" unit="c" qualifiers="chilled">scallops</ingredient>
+            <ingredient ingredient="cucumbers" quantity="3" unit="" qualifiers="medium,pickling,halved,seeded,thinly sliced">3 md Kirby pickling cucumbers, halved lengthwise, seeded and thinly sliced crosswise</ingredient>
+            <ingredient ingredient="sweet_red_pepper" quantity="2" unit="" qualifiers="medium,cored,seeded,thinly sliced">2 md Red bell peppers, cored, seeded and thinly sliced</ingredient>
+            <ingredient ingredient="cilantro" quantity="1" unit="c" qualifiers=",chopped">1 c Cilantro leaves, chopped (optional)</ingredient>
+            <ingredient ingredient="_onion" quantity="0.5" unit="c" qualifiers="ced">1/2 c Sliced scallions</ingredient>
+        </ingredients>
+        <preparation>
+            <step>PEANUT GINGER DRESSING SALAD Peanut-Ginger Dressing: Whisk peanut butter and hot water in a large bowl until smooth</step>
+            <step>Whisk in vinegar, soy sauce, sugar, gingerroot and garlic</step>
+            <step>Add remaining ingredients</step>
+            <step>Toss to mix</step>
+            <step>Makes about 12 cups/6 servings</step>
+            <step>For a spicier version, sprinkle with crushed red pepper</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>59</recipeid>
+        <title>Thai-style chicken salad on cumin quick bread</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="1" unit="sp" qualifiers="">1 ts Salt</ingredient>
+            <ingredient ingredient="chili_powder" quantity="0.5" unit="sp" qualifiers="">1/2 ts Chili powder</ingredient>
+            <ingredient ingredient="lime_juice" quantity="0.25" unit="c" qualifiers="h">1/4 c Fresh lime juice</ingredient>
+            <ingredient ingredient="coriander" quantity="0.25" unit="c" qualifiers="nely chopped,fresh">1/4 c Finely chopped fresh coriander</ingredient>
+            <ingredient ingredient="mint" quantity="0.25" unit="c" qualifiers="nely chopped,fresh,leaf">1/4 c Finely chopped fresh mint leaves</ingredient>
+            <ingredient ingredient="sugar" quantity="" unit="pinch" qualifiers="">A pinch of sugar</ingredient>
+            <ingredient ingredient="chicken_breast" quantity="2" unit="" qualifiers="whole,skinless,boneless">2 Poached whole skinless boneless chicken breasts, (about 1 1/4 pounds), minces (about 3 cups)</ingredient>
+            <ingredient ingredient="shallot" quantity="0.33" unit="c" qualifiers="nely chopped">1/3 c Finely chopped shallot</ingredient>
+            <ingredient ingredient="_onion" quantity="0.33" unit="c" qualifiers="thinly sliced">1/3 c Thinly sliced scallion</ingredient>
+            <ingredient ingredient="mayonnaise" quantity="0.25" unit="c" qualifiers="to taste">1/4 c Mayonnaise, or to taste</ingredient>
+            <ingredient ingredient="bread" quantity="1" unit="" qualifiers="">1 Loaf of Cumin Quick Bread</ingredient>
+            <ingredient ingredient="parsley" quantity="" unit="" qualifiers="nely chopped,fresh,leaf">Finely chopped fresh parsley leaves</ingredient>
+        </ingredients>
+        <preparation>
+            <step>CHICKEN SALAD GARNISH Make chicken salad: In a large bowl whisk together the lime juice, the salt, the chili powder, the coriander, the mint, and the sugar, stir in the chicken, the shallot, and the scallion, and stir in the mayonnaise</step>
+            <step>(The chicken salad may be made 1 day in advance and kept overed and chilled</step>
+            <step>) Cut the bread into 1/3-inch-thick slices, spread each of half the slices with a scant 2 tablespoons of the chicken salad, and top the chicken salad with the remaining slices</step>
+            <step>Cut each sandwich in half</step>
+            <step>Spread a thin layer of the mayonnaise on one of the edges of each sandwich and dip it in the parsley</step>
+            <step>Makes about 34 sandwiches</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>6</recipeid>
+        <title>Black lentil and kasha salad</title>
+        <ingredients>
+            <ingredient ingredient="beluga_lentil" quantity="1" unit="c" qualifiers="">1 c Black Beluga Lentils</ingredient>
+            <ingredient ingredient="bay" quantity="1" unit="" qualifiers="ge">1 lg Bay Leaf</ingredient>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="hly ground,to taste">Salt And Freshly Ground Pepper, to taste</ingredient>
+            <ingredient ingredient="olive_oil" quantity="1" unit="blsp" qualifiers="">1 tb Olive Oil</ingredient>
+            <ingredient ingredient="_onion" quantity="3" unit="blsp" qualifiers="minced">3 tb Shallot Or Green Onion, minced</ingredient>
+            <ingredient ingredient="kasha" quantity="0.5" unit="c" qualifiers="">1/2 c Kasha</ingredient>
+            <ingredient ingredient="slivered_almond" quantity="0.25" unit="c" qualifiers="toasted,blanched">1/4 c Slivered Almonds, toasted blanched</ingredient>
+            <ingredient ingredient="cayenne_pepper" quantity="1" unit="c" qualifiers="diced">1 c Red Pepper (Roasted And Peeled), diced</ingredient>
+            <ingredient ingredient="omato" quantity="1" unit="c" qualifiers="pe,diced,seeded">1 c Ripe Tomato (Firm), diced, seeded</ingredient>
+            <ingredient ingredient="corn" quantity="0.5" unit="c" qualifiers="h,sweet">1/2 c Fresh Sweet Corn Kernels</ingredient>
+            <ingredient ingredient="_onion" quantity="0.5" unit="c" qualifiers="diced">1/2 c Diced Red Onion</ingredient>
+            <ingredient ingredient="lime" quantity="" unit="" qualifiers="">Lime Vinaigrette, Recipe Follows</ingredient>
+            <ingredient ingredient="savory" quantity="" unit="" qualifiers="tender">Tender Young Savory Greens</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Add the lentils to a deep saucepan and cover with 4 cups water and the bay leaf</step>
+            <step>Bring to a boil, reduce heat and simmer partially covered for 12 to 15 minutes or until lentils are tender but not mushy</step>
+            <step>Remove from heat, drain and season with salt and pepper</step>
+            <step>Set aside and let cool</step>
+            <step>Discard bay leaf</step>
+            <step>In a saucepan, heat the olive oil and saute shallots and kasha over moderate heat until lightly browned</step>
+            <step>Add 1 cup water or stock and bring to a boil</step>
+            <step>Reduce heat and simmer covered 15 to 20 minutes until water has evaporated and kasha is tender</step>
+            <step>Remove from heat and let cool</step>
+            <step>Add lentils, kasha almonds, pepper tomato, corn and onion to a bowl and toss gently with the lime vinaigrette</step>
+            <step>Season to taste with salt and pepper and serve salad on a bed of tender savory greens</step>
+            <step>Yield: 6 servings LIME VINAIGRETTE:</step>
+            <step>3 tablespoons fresh lime juice 1 1/2 tablespoons champagne vinegar 2 teaspoons grated lime zest 1 tablespoon minced garlic 2 tablespoons chopped cilantro and/or mint</step>
+            <step>1 teaspoon chopped, seeded Serrano chile (or to taste) 1 1/2 teaspoons toasted ground cumin 3 tablespoons olive oil Salt and freshly ground pepper, to taste Whisk all ingredients together</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>60</recipeid>
+        <title>Thousand-island potato salad</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="1" unit="sp" qualifiers="">1 ts Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="0.25" unit="sp" qualifiers="">1/4 ts Pepper</ingredient>
+            <ingredient ingredient="curry_powder" quantity="0.5" unit="sp" qualifiers="">1/2 ts Curry powder</ingredient>
+            <ingredient ingredient="mayonnaise" quantity="1" unit="c" qualifiers="">1 c Mayonnaise, regular or fat-free</ingredient>
+            <ingredient ingredient="chili_sauce" quantity="0.5" unit="c" qualifiers="">1/2 c Chili sauce, chunky</ingredient>
+            <ingredient ingredient="-skinned_potato" quantity="8" unit="" qualifiers="medium,cooked,peeled,cut,small,chunk">8 md Red potatoes, cooked and peeled, drain and cut into small chunks</ingredient>
+            <ingredient ingredient="sweet_onion" quantity="1" unit="" qualifiers="mall,finely diced">1 sm Red or white sweet onion, finely diced</ingredient>
+            <ingredient ingredient="cayenne_pepper" quantity="1" unit="" qualifiers="diced">1 Red pepper, diced</ingredient>
+            <ingredient ingredient="celery" quantity="1" unit="c" qualifiers="diced">1 c Diced celery</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Combine the mayonnaise and chili sauce</step>
+            <step>Combine the remaining ingredients and add the mayo-chili sauce mixture</step>
+            <step>Adjust seasonings</step>
+            <step>Chill well, tossing a few times, allowing flavors to blend</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>61</recipeid>
+        <title>Three-cheese pasta salad with shrimp</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="">Salt</ingredient>
+            <ingredient ingredient="salad_greens" quantity="0.75" unit="lb" qualifiers="cooked">3/4 lb Salad Shrimp, cooked</ingredient>
+            <ingredient ingredient="cheddar" quantity="0.5" unit="c" qualifiers="harp,diced">1/2 c Sharp Cheddar, diced</ingredient>
+            <ingredient ingredient="smoked_gouda" quantity="0.5" unit="c" qualifiers="grated">1/2 c Smoked Gouda, grated</ingredient>
+            <ingredient ingredient="feta" quantity="1" unit="c" qualifiers="crumbled">1 c Feta, crumbled</ingredient>
+            <ingredient ingredient="_onion" quantity="5" unit="" qualifiers="ced">5 Green onions, sliced</ingredient>
+            <ingredient ingredient="black_olive" quantity="1" unit="c" qualifiers="ced">1 c Black olives, sliced</ingredient>
+            <ingredient ingredient="low-fat_sour_cream" quantity="1" unit="c" qualifiers="">1 c Light sour cream</ingredient>
+            <ingredient ingredient="light_mayonnaise" quantity="3" unit="blsp" qualifiers="">3 tb Reduced Calorie Mayonaise</ingredient>
+            <ingredient ingredient="ll" quantity="6" unit="blsp" qualifiers="h,chopped">6 tb Fresh Dill, chopped</ingredient>
+            <ingredient ingredient="conchiglie" quantity="10" unit="oz" qualifiers="">10 oz Pasta shells</ingredient>
+            <ingredient ingredient="black_pepper" quantity="" unit="" qualifiers="">Black Pepper</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Cook pasta until tender, but still firm</step>
+            <step>Rinse with cold water and drain well</step>
+            <step>Combine sour cream, mayonaise, green onions and dill</step>
+            <step>Put pasta in large bowl and mix in cheese and olives</step>
+            <step>Toss with dressing</step>
+            <step>Carefully mix in shrimp</step>
+            <step>Chill 1 hour before serving</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>62</recipeid>
+        <title>Tofu salad</title>
+        <ingredients>
+            <ingredient ingredient="mustard" quantity="1" unit="sp" qualifiers="">1 ts Mustard</ingredient>
+            <ingredient ingredient="onion" quantity="0.25" unit="c" qualifiers="nely chopped">1/4 c Onion, finely chopped</ingredient>
+            <ingredient ingredient="parsley" quantity="1" unit="blsp" qualifiers="chopped,fresh">1 tb Chopped fresh parsley</ingredient>
+            <ingredient ingredient="amari" quantity="1" unit="blsp" qualifiers="">1 tb Tamari</ingredient>
+            <ingredient ingredient="sesame_paste" quantity="0.25" unit="c" qualifiers="">1/4 c Tahini</ingredient>
+            <ingredient ingredient="firm_tofu" quantity="1" unit="lb" qualifiers="">1 lb Firm tofu</ingredient>
+            <ingredient ingredient="mayonnaise" quantity="1" unit="blsp" qualifiers="">1 tb Eggless mayo</ingredient>
+            <ingredient ingredient="arlic" quantity="1" unit="" qualifiers="mall,minced">1 sm Garlic clove, minced</ingredient>
+            <ingredient ingredient="carrot" quantity="0.25" unit="c" qualifiers="hredded">1/4 c Shredded carrots</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Mash tofu</step>
+            <step>Add other ingredients and mix well</step>
+            <step>Spread on toast, pita, crackers, or roll up in lettuce leaves</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>63</recipeid>
+        <title>Tomato kachumber</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="to taste">Salt to taste</ingredient>
+            <ingredient ingredient="_onion" quantity="2" unit="" qualifiers="chopped">2 Scallions, chopped</ingredient>
+            <ingredient ingredient="lime_juice" quantity="4" unit="sp" qualifiers="h">4 ts Fresh lime juice</ingredient>
+            <ingredient ingredient="omato" quantity="2" unit="" qualifiers="ge,cut">2 lg Tomatoes, cut into thin wedges</ingredient>
+            <ingredient ingredient="mint" quantity="2" unit="sp" qualifiers="chopped,fresh">2 ts Chopped fresh mint</ingredient>
+            <ingredient ingredient="" quantity="0.5" unit="sp" qualifiers="grated">1/2 ts Grated ginger</ingredient>
+            <ingredient ingredient="vegetable_oil" quantity="4" unit="sp" qualifiers="">4 ts Vegetable oil</ingredient>
+            <ingredient ingredient="black_mustard_seed" quantity="0.25" unit="sp" qualifiers="">1/4 ts Black mustard seeds</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Combine the tomatoes, scallions, mint, ginger and lime juice in a medium bowl</step>
+            <step>Heat the vegetable oil in a small skillet</step>
+            <step>Add the mustard seeds</step>
+            <step>Have a cover ready to contain the seeds as they begin to pop</step>
+            <step>Remove from heat</step>
+            <step>Pour over the other ingredients, add salt to taste and lightly toss</step>
+            <step>Let marinate for 30 minutes before serving</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>64</recipeid>
+        <title>Tumbleweed pinto bean and wild rice salad</title>
+        <ingredients>
+            <ingredient ingredient="black_pepper" quantity="0.25" unit="sp" qualifiers="">1/4 ts Black pepper</ingredient>
+            <ingredient ingredient="salt" quantity="0.13" unit="sp" qualifiers="">1/8 ts Salt</ingredient>
+            <ingredient ingredient="chive" quantity="2" unit="blsp" qualifiers="chopped,fresh">2 tb Chopped fresh chives</ingredient>
+            <ingredient ingredient="pinto_bean" quantity="0.75" unit="c" qualifiers="dried">3/4 c Dried pinto beans</ingredient>
+            <ingredient ingredient="curly_endive" quantity="1.5" unit="c" qualifiers="">1 1/2 c Tumbleweed greens or curly endive, or fennel tops</ingredient>
+            <ingredient ingredient="wild_rice" quantity="1.5" unit="c" qualifiers="cooked">1 1/2 c Cooked wild rice</ingredient>
+            <ingredient ingredient="sunflower_oil" quantity="0.75" unit="c" qualifiers="">3/4 c Sunflower oil</ingredient>
+            <ingredient ingredient="herb" quantity="3" unit="blsp" qualifiers="">3 tb Herb flavored red wine vinegar</ingredient>
+            <ingredient ingredient="arlic" quantity="2" unit="" qualifiers="mall,peeled">2 sm Garlic cloves, peeled</ingredient>
+            <ingredient ingredient="chive_flower" quantity="" unit="" qualifiers="or garnish">Chive blossoms for garnish</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Soak the beans overnight in water to cover
+            </step>
+            <step>In the morning, drain the beans, rinse them under cold running water, and place them in a saucepan with fresh water to cover
+            </step>
+            <step>Bring to a boil over high heat, then reduce the heat and simmer several hours until the beans are soft and the skins begin to split
+            </step>
+            <step>Add water when necessary to keep the beans from drying, and stir occasionally to prevent them from burning and sticking
+            </step>
+            <step>Remove from the heat, drain, and allow to cool
+            </step>
+            <step>In a bowl, toss together the greens, beans and rice
+            </step>
+            <step>Cover and chill in the refrigerator at least 30 minutes
+            </step>
+            <step>In a blender, combine the oil, vinegar, chives, garlic, pepper, and salt
+            </step>
+            <step>Blend at high speed until the chives and garlic are finely pureed
+            </step>
+            <step>Pour the dressing over the salad, toss, and garnish with chive blossoms
+            </step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>65</recipeid>
+        <title>Tuna-waldorf salad mold</title>
+        <ingredients>
+            <ingredient ingredient="apple_juice" quantity="1" unit="c" qualifiers="">1 c Apple juice</ingredient>
+            <ingredient ingredient="water" quantity="2.5" unit="c" qualifiers="boiling">2 1/2 c Boiling water</ingredient>
+            <ingredient ingredient="latin" quantity="1" unit="pk" qualifiers="">1 pk (6 ounces) lemon-flavored gelatin</ingredient>
+            <ingredient ingredient="una" quantity="1" unit="can" qualifiers="drained,flaked">1 cn (6-1/2 ounces) starkist tuna, drained and flaked</ingredient>
+            <ingredient ingredient="apple" quantity="1" unit="c" qualifiers="nely chopped,unpeeled">1 c Finely chopped unpeeled apple</ingredient>
+            <ingredient ingredient="pecan" quantity="0.33" unit="c" qualifiers="chopped">1/3 c Chopped pecans or walnuts</ingredient>
+            <ingredient ingredient="celery" quantity="0.33" unit="c" qualifiers="nely chopped">1/3 c Finely chopped celery</ingredient>
+            <ingredient ingredient="light_mayonnaise" quantity="0.33" unit="c" qualifiers="">1/3 c Reduced-calorie mayonnaise or salad dressing</ingredient>
+            <ingredient ingredient="low-fat_milk" quantity="3" unit="blsp" qualifiers="">3 tb Low-fat milk</ingredient>
+        </ingredients>
+        <preparation>
+            <step>In a large, shallow bowl dissolve gelatin in boiling water</step>
+            <step>Stir in apple juice until blended</step>
+            <step>Cover; chill mixture about 30 minutes, or until the consistency of unbeaten egg whites</step>
+            <step>Fold in tuna, apple, pecans and celery</step>
+            <step>Spray a 4- or 5-cup mold (or 5 individual 1-cup molds) with aerosol shortening; pour in mixture</step>
+            <step>Cover; chill several hours until set</step>
+            <step>For dressing, in a small bowl stir together mayonnaise and milk; serve with salad</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>66</recipeid>
+        <title>Watergate salad</title>
+        <ingredients>
+            <ingredient ingredient="walnut" quantity="0.5" unit="c" qualifiers="chopped">1/2 c Chopped walnuts</ingredient>
+            <ingredient ingredient="cool_whip" quantity="8" unit="oz" qualifiers="thawed">8 oz Cool Whip, thawed</ingredient>
+            <ingredient ingredient="pudding_mix" quantity="1" unit="pk" qualifiers="nstant">1 pk (4 oz) pistachio Instant Pudding Mix</ingredient>
+            <ingredient ingredient="pineapple" quantity="1" unit="can" qualifiers="crushed">1 cn (20 oz) crushed pineapple, Do Not Drain</ingredient>
+            <ingredient ingredient="marshmallow" quantity="1.5" unit="c" qualifiers="miniature">1 1/2 c Mini marshmallows</ingredient>
+            <ingredient ingredient="maraschino_cherries" quantity="" unit="" qualifiers="or garnish">Maraschino cherries for garnish, (optional)</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Blend dry pudding mix into Cool Whip and mix well</step>
+            <step>Add crushed pineapple, marshmallows and walnuts</step>
+            <step>Refrigerate about 2 hours</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>67</recipeid>
+        <title>White bean salad with shrimp and sun dried tomato vinaigret</title>
+        <ingredients>
+            <ingredient ingredient="olive_oil" quantity="1" unit="c" qualifiers="">1 c Olive oil</ingredient>
+            <ingredient ingredient="_wine_vinegar" quantity="0.5" unit="c" qualifiers="">1/2 c Red wine vinegar</ingredient>
+            <ingredient ingredient="salt" quantity="" unit="" qualifiers="hly ground">Salt</ingredient>
+            <ingredient ingredient="black_pepper" quantity="" unit="" qualifiers="hly ground">freshly ground black pepper</ingredient>
+            <ingredient ingredient="water" quantity="6" unit="c" qualifiers="">6 c Water</ingredient>
+            <ingredient ingredient="white_bean" quantity="1" unit="c" qualifiers="">1 c White beans</ingredient>
+            <ingredient ingredient="arlic" quantity="2" unit="blsp" qualifiers="nely minced">2 tb Finely minced garlic</ingredient>
+            <ingredient ingredient="oil" quantity="0.5" unit="c" qualifiers="chopped,packed">1/2 c Chopped sun-dried tomatoes, oil packed preferred</ingredient>
+            <ingredient ingredient="_onion" quantity="0.67" unit="c" qualifiers="nely chopped">2/3 c Finely chopped red onions</ingredient>
+            <ingredient ingredient="basil" quantity="0.5" unit="c" qualifiers="chopped,fresh">1/2 c Chopped fresh basil</ingredient>
+            <ingredient ingredient="shrimp" quantity="1" unit="lb" qualifiers="medium,shelled,deveined">1 lb Medium shrimp, shelled and deveined</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Put the white beans in a pot with cold water and bring up to a boil</step>
+            <step>Boil for 2 minutes, then remove from the heat and let rest for 1 hour</step>
+            <step>Pour off water and add 6 more cups cold water</step>
+            <step>Bring up to a boil and simmer the beans until tender but not soft</step>
+            <step>Add 1 teaspoon salt halfway through cooking time</step>
+            <step>Drain the beans and transfer to a mixing bowl</step>
+            <step>While warm, dress with 1/3 cup of the olive oil, 1/4 cup of the vinegar, and salt and pepper</step>
+            <step>Warm the remaining 2/3 cup olive oil in a saute pan and heat the garlic and sun-dried tomatoes for just a minute or two</step>
+            <step>Add half this mixture to the beans and mix well</step>
+            <step>When the beans are cool, add the chopped onions</step>
+            <step>Season with salt and vinegar to taste</step>
+            <step>Combine the rest of the sun-dried tomato oil with the remaining 4 tablespoons of vinegar</step>
+            <step>To cook the shrimp, saute in the reserved sun-dried tomato vinaigrette or broil and then toss with the vinaigrette before placing atop bean salad</step>
+            <step>Just before serving fold in 1/4 cup chopped basil and top with the cooked shrimp that have been tossed in the sun-dried tomato vinaigrette</step>
+            <step>Yield: serves 6</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>68</recipeid>
+        <title>You must be yolking egg salad</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="1" unit="ds" qualifiers="">1 ds Salt</ingredient>
+            <ingredient ingredient="curry_powder" quantity="0.5" unit="sp" qualifiers="">1/2 ts Curry powder</ingredient>
+            <ingredient ingredient="parsley" quantity="1" unit="sp" qualifiers="chopped">1 ts Chopped parsley</ingredient>
+            <ingredient ingredient="pepper" quantity="1" unit="ds" qualifiers="">1 ds Pepper</ingredient>
+            <ingredient ingredient="" quantity="1" unit="" qualifiers="hard-boiled,peeled,chopped">1 Hard-boiled egg, peeled and chopped</ingredient>
+            <ingredient ingredient="cheese" quantity="3" unit="blsp" qualifiers="">3 tb Low-fat cotttage cheese</ingredient>
+        </ingredients>
+        <preparation>
+            <step>1</step>
+            <step>In a small bowl, combine all ingredients</step>
+            <step>Cover and keep chilled</step>
+            <step>Serve mounded in lettuce leaves, with soda crackers or breadstick</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>69</recipeid>
+        <title>Zesty squash salad</title>
+        <ingredients>
+            <ingredient ingredient="pepper" quantity="0.25" unit="sp" qualifiers="">1/4 ts Pepper</ingredient>
+            <ingredient ingredient="onion" quantity="0.25" unit="c" qualifiers="chopped">1/4 c Chopped onion</ingredient>
+            <ingredient ingredient="basil" quantity="1" unit="sp" qualifiers="dried">1 ts Dried basil</ingredient>
+            <ingredient ingredient="chicken_broth" quantity="0.75" unit="c" qualifiers="">3/4 c No-salt-added chicken broth</ingredient>
+            <ingredient ingredient="oil" quantity="0.75" unit="c" qualifiers="packed">3/4 c Sun-dried tomatoes, packed without oil</ingredient>
+            <ingredient ingredient="mushroom" quantity="1" unit="c" qualifiers="ced,fresh">1 c Sliced fresh mushrooms</ingredient>
+            <ingredient ingredient="arlic" quantity="1" unit="" qualifiers="minced">1 Garlic, minced</ingredient>
+            <ingredient ingredient="spaghetti_squash" quantity="2.5" unit="c" qualifiers="cooked">2 1/2 c Cooked spaghetti squash</ingredient>
+            <ingredient ingredient="omato" quantity="1" unit="c" qualifiers="ded,chopped">1 c Seeded chopped tomato</ingredient>
+            <ingredient ingredient="pine_nut" quantity="3" unit="blsp" qualifiers="toasted">3 tb Pine nuts, toasted</ingredient>
+            <ingredient ingredient="parmesan_cheese" quantity="1" unit="blsp" qualifiers="grated">1 tb Grated Romano or Parmesan cheese</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Bring chicken broth to a boil in a medium suacepan, and add sun-dried tomat oes</step>
+            <step>Remove from heat; cover and let stand 10 minutes</step>
+            <step>Remove tomatoes from broth with a slotted spoon, reserving broth</step>
+            <step>Cut tomatoes into strips, and set aside</step>
+            <step>Add mushrooms, onion, and garlic to broth, and bring to a boil</step>
+            <step>Reduce heat , and simmer, uncovered, 10 minutes or until liquid is reduced to about 3 t ablespoons</step>
+            <step>Combine squash, chopped tomato, basil, and pepper in a bowl</step>
+            <step>Add mushroom m ixture and su-dried tomato strips, and toss well</step>
+            <step>Sprinkle with pine nuts a nd cheese</step>
+            <step>Yield: 7 servings (serving size: 1/2 cup)</step>
+            <step>From MC-recipe mailing list</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>7</recipeid>
+        <title>California chef's salad</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="0.5" unit="sp" qualifiers="">1/2 ts Salt</ingredient>
+            <ingredient ingredient="lemon_juice" quantity="1" unit="blsp" qualifiers="">1 tb Lemon juice</ingredient>
+            <ingredient ingredient="black_pepper" quantity="0.25" unit="sp" qualifiers="">1/4 ts Black pepper</ingredient>
+            <ingredient ingredient="worcestershire_sauce" quantity="1" unit="sp" qualifiers="">1 ts Worcestershire sauce</ingredient>
+            <ingredient ingredient="mayonnaise" quantity="1.5" unit="c" qualifiers="">1 1/2 c Mayonnaise</ingredient>
+            <ingredient ingredient="cayenne_pepper" quantity="1" unit="ds" qualifiers="">1 ds Red pepper</ingredient>
+            <ingredient ingredient="ketchup" quantity="1" unit="blsp" qualifiers="">1 tb Catsup</ingredient>
+            <ingredient ingredient="chili_sauce" quantity="0.5" unit="c" qualifiers="">1/2 c Chili sauce</ingredient>
+            <ingredient ingredient="omato" quantity="2" unit="" qualifiers="cut">2 Tomatoes, cut in wedges</ingredient>
+            <ingredient ingredient="salad_greens" quantity="8" unit="c" qualifiers="torn">8 c Torn salad greens</ingredient>
+            <ingredient ingredient="_onion" quantity="0.25" unit="c" qualifiers="ced">1/4 c Sliced green onions</ingredient>
+            <ingredient ingredient="cucumber" quantity="2" unit="" qualifiers="ced">2 Cucumbers, sliced</ingredient>
+            <ingredient ingredient="ham" quantity="4" unit="" qualifiers="ce,cooked,cut">4 sl Salami or cooked ham (thin) cut in strips</ingredient>
+            <ingredient ingredient="chicken" quantity="0.5" unit="c" qualifiers="cubed,cooked">1/2 c Cubed cooked Turkey =OR=- Chicken</ingredient>
+            <ingredient ingredient="parsley" quantity="" unit="" qualifiers="minced">Minced parsley</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Combine mayonnaise, salt, black pepper, red pepper, lemon juice, catsup, Worcestershire and chili sauce</step>
+            <step>Chill</step>
+            <step>To make salad, toss tomatoes, greens, green onions and cucumbers together</step>
+            <step>Place in deep salad bowl and top with salami and turkey</step>
+            <step>Serve dressing separately in sauce bowl, sprinkled with parsley</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>70</recipeid>
+        <title>Ziti salmon salad</title>
+        <ingredients>
+            <ingredient ingredient="ziti" quantity="0.5" unit="lb" qualifiers="ncooked">1/2 lb Creamette Ziti, uncooked</ingredient>
+            <ingredient ingredient="salmon" quantity="1" unit="can" qualifiers="drained">1 cn (16-oz) salmon, drained, skin and bone removed</ingredient>
+            <ingredient ingredient="snow_pea" quantity="1" unit="pk" qualifiers="ozen,thawed">1 pk (6-oz) frozen snow peas, thawed</ingredient>
+            <ingredient ingredient="cayenne_pepper" quantity="1" unit="" qualifiers="medium,chopped">1 md Red pepper, chopped</ingredient>
+            <ingredient ingredient="pepper" quantity="1" unit="" qualifiers="medium,chopped">1 md Yellow pepper, chopped</ingredient>
+            <ingredient ingredient="_onion" quantity="0.5" unit="c" qualifiers="ced">1/2 c Sliced green onions</ingredient>
+            <ingredient ingredient="uced_calorie_italian_dressing" quantity="0.5" unit="c" qualifiers="bottled">1/2 c Bottled reduced calorie Italian dressing</ingredient>
+            <ingredient ingredient="heart" quantity="0.5" unit="sp" qualifiers="">1/2 ts American Heart Association salad herb seasoning</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Prepare Creamette Ziti as package directs; drain</step>
+            <step>In large bowl, combine ziti and remaining ingredients; mix well</step>
+            <step>Cover; chill thoroughly</step>
+            <step>Stir before serving</step>
+            <step>Refrigerate leftovers</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Gout diet</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>71</recipeid>
+        <title>Zucchini slaw</title>
+        <ingredients>
+            <ingredient ingredient="oil" quantity="0.25" unit="c" qualifiers="">1/4 c Oil</ingredient>
+            <ingredient ingredient="salt" quantity="1" unit="sp" qualifiers="">1 ts Salt</ingredient>
+            <ingredient ingredient="pepper" quantity="0.25" unit="sp" qualifiers="">1/4 ts Pepper</ingredient>
+            <ingredient ingredient="sugar" quantity="1.5" unit="sp" qualifiers="">1 1/2 ts Sugar</ingredient>
+            <ingredient ingredient="mayonnaise" quantity="2" unit="blsp" qualifiers="">2 tb Mayonnaise</ingredient>
+            <ingredient ingredient="zucchini" quantity="3" unit="" qualifiers="medium">3 Medium-sized zucchini, ( about 8 oz. Each) sized yellow straight-neck squash</ingredient>
+            <ingredient ingredient="cayenne_pepper" quantity="1" unit="" qualifiers="mall">1 sm Red pepper</ingredient>
+            <ingredient ingredient="cider_vinegar" quantity="3" unit="blsp" qualifiers="">3 tb Cider vinegar</ingredient>
+        </ingredients>
+        <preparation>
+            <step>1</step>
+            <step>Cut zucchini, yellow squash and red pepper into matchstick thin strips or shred in food processor; set aside</step>
+            <step>I do not peel the squash, but wash them very well</step>
+            <step>However if you like to have them peeled, that is fine</step>
+            <step>In large bowl, with wire whisk or fork, beat salad oil, vinegar, mayonnaise, sugar, salt and pepper until mixed</step>
+            <step>Add vegetables; gently toss to mix well</step>
+            <step>Cover and refrigerate at least 2 hours to blend flavors, stirring occasionally</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+        </diet>
+    </recipe>
+    <recipe>
+        <recipeid>8</recipeid>
+        <title>Catalina spinach salad</title>
+        <ingredients>
+            <ingredient ingredient="salt" quantity="0.5" unit="sp" qualifiers="">1/2 ts Salt</ingredient>
+            <ingredient ingredient="sugar" quantity="3" unit="blsp" qualifiers="">3 tb Sugar</ingredient>
+            <ingredient ingredient="" quantity="2" unit="" qualifiers="hard-boiled,chopped">2 Hard-boiled eggs, chopped</ingredient>
+            <ingredient ingredient="vegetable_oil" quantity="0.5" unit="c" qualifiers="">1/2 c Vegetable oil</ingredient>
+            <ingredient ingredient="ketchup" quantity="0.25" unit="c" qualifiers="">1/4 c Ketchup</ingredient>
+            <ingredient ingredient="_wine_vinegar" quantity="0.25" unit="c" qualifiers="">1/4 c Red wine vinegar</ingredient>
+            <ingredient ingredient="onion" quantity="0.25" unit="c" qualifiers="nely chopped">1/4 c Onion, finely chopped</ingredient>
+            <ingredient ingredient="worcestershire_sauce" quantity="2" unit="sp" qualifiers="">2 ts Worcestershire sauce</ingredient>
+            <ingredient ingredient="spinach" quantity="2" unit="pk" qualifiers="torn">2 pk (10-oz) spinach, torn</ingredient>
+            <ingredient ingredient="omato" quantity="2" unit="" qualifiers="ge,diced">2 lg Tomatoes, diced</ingredient>
+            <ingredient ingredient="water_chestnut" quantity="2" unit="can" qualifiers="ced">2 cn (8-oz) sliced water chestnuts</ingredient>
+            <ingredient ingredient="chow_mein_noodle" quantity="2" unit="c" qualifiers="">2 c Chow mein noodles</ingredient>
+            <ingredient ingredient="bacon" quantity="12" unit="" qualifiers="ce,cooked,crumbled">12 sl Bacon, cooked, crumbled</ingredient>
+        </ingredients>
+        <preparation>
+            <step>Combine the first seven ingredients in a jar with tight-fitting lid; shake well</step>
+            <step>Combine remaining ingredients in a large salad bowl; add dressing and toss</step>
+            <step>Serve immediately</step>
+            <step>Yield: 6-8 servings</step>
+        </preparation>
+        <diet>
+            <exlcude-for-diet>Cholesterol diet</exlcude-for-diet>
+            <exlcude-for-diet>Gluten-free diet</exlcude-for-diet>
+            <exlcude-for-diet>Nut free</exlcude-for-diet>
+            <exlcude-for-diet>Veganism</exlcude-for-diet>
+            <exlcude-for-diet>Vegetarian</exlcude-for-diet>
+        </diet>
+    </recipe>
+</recipes>
